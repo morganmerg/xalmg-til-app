@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Хальмг Тиль",
+    "slug": "xalmg-til-app",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FAF5E9"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "tech.morganmerg.xalmgtil"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#C86B3E"
+      },
+      "package": "tech.morganmerg.xalmgtil",
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-sqlite",
+      "expo-asset",
+      "expo-audio"
+    ]
+  }
+}

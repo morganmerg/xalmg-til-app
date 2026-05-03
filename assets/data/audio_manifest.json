@@ -1,0 +1,2236 @@
+{
+  "chain": [
+    "cp437",
+    "cp866"
+  ],
+  "count": 366,
+  "unique_lemmas": 198,
+  "manifest": {
+    "аа": [
+      {
+        "file": "áá.wav",
+        "variant": "",
+        "decoded": "аа"
+      },
+      {
+        "file": "áá_II_1)_1.wav",
+        "variant": "_II_1)_1",
+        "decoded": "аа_II_1)_1"
+      },
+      {
+        "file": "áá_II_1)_2.wav",
+        "variant": "_II_1)_2",
+        "decoded": "аа_II_1)_2"
+      },
+      {
+        "file": "áá_II_2)_1.wav",
+        "variant": "_II_2)_1",
+        "decoded": "аа_II_2)_1"
+      },
+      {
+        "file": "áá_II_3)_1.wav",
+        "variant": "_II_3)_1",
+        "decoded": "аа_II_3)_1"
+      },
+      {
+        "file": "áá_II_3)_2.wav",
+        "variant": "_II_3)_2",
+        "decoded": "аа_II_3)_2"
+      },
+      {
+        "file": "áá_I_1)_1.wav",
+        "variant": "_I_1)_1",
+        "decoded": "аа_I_1)_1"
+      },
+      {
+        "file": "áá_I_2)_1.wav",
+        "variant": "_I_2)_1",
+        "decoded": "аа_I_2)_1"
+      },
+      {
+        "file": "áá_I_2)_2.wav",
+        "variant": "_I_2)_2",
+        "decoded": "аа_I_2)_2"
+      },
+      {
+        "file": "áá_I_2)_3.wav",
+        "variant": "_I_2)_3",
+        "decoded": "аа_I_2)_3"
+      }
+    ],
+    "аана": [
+      {
+        "file": "áá¡á.wav",
+        "variant": "",
+        "decoded": "аана"
+      }
+    ],
+    "аанан саак": [
+      {
+        "file": "áá¡á¡ ßáá¬.wav",
+        "variant": "",
+        "decoded": "аанан саак"
+      }
+    ],
+    "аанан": [
+      {
+        "file": "áá¡á¡.wav",
+        "variant": "",
+        "decoded": "аанан"
+      },
+      {
+        "file": "áá¡á¡_1.wav",
+        "variant": "_1",
+        "decoded": "аанан_1"
+      }
+    ],
+    "áá¡áõá¡": [
+      {
+        "file": "áá¡áÕá¡.wav",
+        "variant": "",
+        "decoded": "áá¡áÕá¡"
+      }
+    ],
+    "аак": [
+      {
+        "file": "áá¬.wav",
+        "variant": "",
+        "decoded": "аак"
+      }
+    ],
+    "аац": [
+      {
+        "file": "ááµ.wav",
+        "variant": "",
+        "decoded": "аац"
+      },
+      {
+        "file": "ááµ_1.wav",
+        "variant": "_1",
+        "decoded": "аац_1"
+      },
+      {
+        "file": "ááµ_2.wav",
+        "variant": "_2",
+        "decoded": "аац_2"
+      },
+      {
+        "file": "ááµ_3.wav",
+        "variant": "_3",
+        "decoded": "аац_3"
+      }
+    ],
+    "аацан": [
+      {
+        "file": "ááµá¡.wav",
+        "variant": "",
+        "decoded": "аацан"
+      },
+      {
+        "file": "ááµá¡_1.wav",
+        "variant": "_1",
+        "decoded": "аацан_1"
+      }
+    ],
+    "ááµáôá": [
+      {
+        "file": "ááµáÔá.wav",
+        "variant": "",
+        "decoded": "ááµáÔá"
+      },
+      {
+        "file": "ááµáÔá_1.wav",
+        "variant": "_1",
+        "decoded": "ááµáÔá_1"
+      }
+    ],
+    "áá½ý-¼ѭ": [
+      {
+        "file": "áá½ý-¼Ѭ.wav",
+        "variant": "",
+        "decoded": "áá½ý-¼Ѭ"
+      },
+      {
+        "file": "áá½ý-¼Ѭ_1.wav",
+        "variant": "_1",
+        "decoded": "áá½ý-¼Ѭ_1"
+      }
+    ],
+    "áá½ý": [
+      {
+        "file": "áá½ý.wav",
+        "variant": "",
+        "decoded": "áá½ý"
+      },
+      {
+        "file": "áá½ý_II_1.wav",
+        "variant": "_II_1",
+        "decoded": "áá½ý_II_1"
+      },
+      {
+        "file": "áá½ý_II_2.wav",
+        "variant": "_II_2",
+        "decoded": "áá½ý_II_2"
+      },
+      {
+        "file": "áá½ý_I_1.wav",
+        "variant": "_I_1",
+        "decoded": "áá½ý_I_1"
+      },
+      {
+        "file": "áá½ý_I_2.wav",
+        "variant": "_I_2",
+        "decoded": "áá½ý_I_2"
+      }
+    ],
+    "áá½ý½½_¡": [
+      {
+        "file": "áá½ý½½_¡.wav",
+        "variant": "",
+        "decoded": "áá½ý½½_¡"
+      }
+    ],
+    "áá½ý½õ": [
+      {
+        "file": "áá½ý½Õ.wav",
+        "variant": "",
+        "decoded": "áá½ý½Õ"
+      }
+    ],
+    "áá½ý½ҽõ": [
+      {
+        "file": "áá½ý½ҽÕ.wav",
+        "variant": "",
+        "decoded": "áá½ý½ҽÕ"
+      }
+    ],
+    "áá½ýôá": [
+      {
+        "file": "áá½ýÔá.wav",
+        "variant": "",
+        "decoded": "áá½ýÔá"
+      },
+      {
+        "file": "áá½ýÔá_I_2)_1.wav",
+        "variant": "_I_2)_1",
+        "decoded": "áá½ýÔá_I_2)_1"
+      }
+    ],
+    "аадм": [
+      {
+        "file": "ááñ¼.wav",
+        "variant": "",
+        "decoded": "аадм"
+      },
+      {
+        "file": "ááñ¼_I_1.wav",
+        "variant": "_I_1",
+        "decoded": "аадм_I_1"
+      }
+    ],
+    "аадмг": [
+      {
+        "file": "ááñ¼ú.wav",
+        "variant": "",
+        "decoded": "аадмг"
+      }
+    ],
+    "аадмг_1)": [
+      {
+        "file": "ááñ¼ú_1)_1.wav",
+        "variant": "_1",
+        "decoded": "аадмг_1)_1"
+      },
+      {
+        "file": "ááñ¼ú_1)_2.wav",
+        "variant": "_2",
+        "decoded": "аадмг_1)_2"
+      },
+      {
+        "file": "ááñ¼ú_1)_3.wav",
+        "variant": "_3",
+        "decoded": "аадмг_1)_3"
+      }
+    ],
+    "аадмг_2)": [
+      {
+        "file": "ááñ¼ú_2)_1.wav",
+        "variant": "_1",
+        "decoded": "аадмг_2)_1"
+      }
+    ],
+    "аадмгин": [
+      {
+        "file": "ááñ¼ú¿¡.wav",
+        "variant": "",
+        "decoded": "аадмгин"
+      },
+      {
+        "file": "ááñ¼ú¿¡_1.wav",
+        "variant": "_1",
+        "decoded": "аадмгин_1"
+      },
+      {
+        "file": "ááñ¼ú¿¡_2.wav",
+        "variant": "_2",
+        "decoded": "аадмгин_2"
+      }
+    ],
+    "аада": [
+      {
+        "file": "ááñá.wav",
+        "variant": "",
+        "decoded": "аада"
+      },
+      {
+        "file": "ááñá_1.wav",
+        "variant": "_1",
+        "decoded": "аада_1"
+      }
+    ],
+    "ááñóõ": [
+      {
+        "file": "ááñÓÕ.wav",
+        "variant": "",
+        "decoded": "ááñÓÕ"
+      }
+    ],
+    "ááñóõ_3)": [
+      {
+        "file": "ááñÓÕ_3)_1.wav",
+        "variant": "_1",
+        "decoded": "ááñÓÕ_3)_1"
+      }
+    ],
+    "ááñóҽ½_¡": [
+      {
+        "file": "ááñÓҽ½_¡.wav",
+        "variant": "",
+        "decoded": "ááñÓҽ½_¡"
+      }
+    ],
+    "ááñóҽõ": [
+      {
+        "file": "ááñÓҽÕ.wav",
+        "variant": "",
+        "decoded": "ááñÓҽÕ"
+      },
+      {
+        "file": "ááñÓҽÕ_1.wav",
+        "variant": "_1",
+        "decoded": "ááñÓҽÕ_1"
+      },
+      {
+        "file": "ááñÓҽÕ_2.wav",
+        "variant": "_2",
+        "decoded": "ááñÓҽÕ_2"
+      },
+      {
+        "file": "ááñÓҽÕ_3.wav",
+        "variant": "_3",
+        "decoded": "ááñÓҽÕ_3"
+      }
+    ],
+    "ááñҽõ": [
+      {
+        "file": "ááñҽÕ.wav",
+        "variant": "",
+        "decoded": "ááñҽÕ"
+      }
+    ],
+    "ááó-ßááó": [
+      {
+        "file": "ááÓ-ßááÓ.wav",
+        "variant": "",
+        "decoded": "ááÓ-ßááÓ"
+      }
+    ],
+    "аав": [
+      {
+        "file": "ááó.wav",
+        "variant": "",
+        "decoded": "аав"
+      }
+    ],
+    "аав_1)": [
+      {
+        "file": "ááó_1)_1.wav",
+        "variant": "_1",
+        "decoded": "аав_1)_1"
+      },
+      {
+        "file": "ááó_1)_2.wav",
+        "variant": "_2",
+        "decoded": "аав_1)_2"
+      },
+      {
+        "file": "ááó_1)_3.wav",
+        "variant": "_3",
+        "decoded": "аав_1)_3"
+      }
+    ],
+    "ááó": [
+      {
+        "file": "ááÓ_1.wav",
+        "variant": "_1",
+        "decoded": "ááÓ_1"
+      },
+      {
+        "file": "ááÓ_2.wav",
+        "variant": "_2",
+        "decoded": "ááÓ_2"
+      }
+    ],
+    "аав_2)": [
+      {
+        "file": "ááó_2)_1.wav",
+        "variant": "_1",
+        "decoded": "аав_2)_1"
+      },
+      {
+        "file": "ááó_2)_2.wav",
+        "variant": "_2",
+        "decoded": "аав_2)_2"
+      }
+    ],
+    "ááóáñ": [
+      {
+        "file": "ááÓáñ.wav",
+        "variant": "",
+        "decoded": "ááÓáñ"
+      },
+      {
+        "file": "ááÓáñ_1.wav",
+        "variant": "_1",
+        "decoded": "ááÓáñ_1"
+      }
+    ],
+    "ááóò": [
+      {
+        "file": "ááÓÒ.wav",
+        "variant": "",
+        "decoded": "ááÓÒ"
+      },
+      {
+        "file": "ááÓÒ_1.wav",
+        "variant": "_1",
+        "decoded": "ááÓÒ_1"
+      },
+      {
+        "file": "ááÓÒ_2.wav",
+        "variant": "_2",
+        "decoded": "ááÓÒ_2"
+      }
+    ],
+    "ááóõ": [
+      {
+        "file": "ááÓÕ.wav",
+        "variant": "",
+        "decoded": "ááÓÕ"
+      },
+      {
+        "file": "ááÓÕ_1.wav",
+        "variant": "_1",
+        "decoded": "ááÓÕ_1"
+      }
+    ],
+    "ááóú½ñú": [
+      {
+        "file": "ááÓú½ñú.wav",
+        "variant": "",
+        "decoded": "ááÓú½ñú"
+      }
+    ],
+    "ááóú½õ": [
+      {
+        "file": "ááÓú½Õ.wav",
+        "variant": "",
+        "decoded": "ááÓú½Õ"
+      }
+    ],
+    "ááóú½õ_2)": [
+      {
+        "file": "ááÓú½Õ_2)_1.wav",
+        "variant": "_1",
+        "decoded": "ááÓú½Õ_2)_1"
+      }
+    ],
+    "ááóú½úñõ": [
+      {
+        "file": "ááÓú½úñÕ.wav",
+        "variant": "",
+        "decoded": "ááÓú½úñÕ"
+      }
+    ],
+    "ááóú½ҽõ": [
+      {
+        "file": "ááÓú½ҽÕ.wav",
+        "variant": "",
+        "decoded": "ááÓú½ҽÕ"
+      }
+    ],
+    "ááóú½ҽúñõ": [
+      {
+        "file": "ááÓú½ҽúñÕ.wav",
+        "variant": "",
+        "decoded": "ááÓú½ҽúñÕ"
+      }
+    ],
+    "ááóúñõ": [
+      {
+        "file": "ááÓúñÕ.wav",
+        "variant": "",
+        "decoded": "ááÓúñÕ"
+      }
+    ],
+    "ááóúñߡ": [
+      {
+        "file": "ááÓúñߡ.wav",
+        "variant": "",
+        "decoded": "ááÓúñߡ"
+      },
+      {
+        "file": "ááÓúñߡ_1.wav",
+        "variant": "_1",
+        "decoded": "ááÓúñߡ_1"
+      }
+    ],
+    "ááôò": [
+      {
+        "file": "ááÔÒ.wav",
+        "variant": "",
+        "decoded": "ááÔÒ"
+      }
+    ],
+    "ááôóҽµõ": [
+      {
+        "file": "ááÔÓҽµÕ.wav",
+        "variant": "",
+        "decoded": "ááÔÓҽµÕ"
+      }
+    ],
+    "ááôóҽõ": [
+      {
+        "file": "ááÔÓҽÕ.wav",
+        "variant": "",
+        "decoded": "ááÔÓҽÕ"
+      }
+    ],
+    "ááôóҽúñõ": [
+      {
+        "file": "ááÔÓҽúñÕ.wav",
+        "variant": "",
+        "decoded": "ááÔÓҽúñÕ"
+      }
+    ],
+    "ááôóҽúñߡ": [
+      {
+        "file": "ááÔÓҽúñߡ.wav",
+        "variant": "",
+        "decoded": "ááÔÓҽúñߡ"
+      }
+    ],
+    "ááôóҽҽõ": [
+      {
+        "file": "ááÔÓҽҽÕ.wav",
+        "variant": "",
+        "decoded": "ááÔÓҽҽÕ"
+      }
+    ],
+    "ааг": [
+      {
+        "file": "ááú.wav",
+        "variant": "",
+        "decoded": "ааг"
+      },
+      {
+        "file": "ááú_III_1.wav",
+        "variant": "_III_1",
+        "decoded": "ааг_III_1"
+      },
+      {
+        "file": "ááú_II_1.wav",
+        "variant": "_II_1",
+        "decoded": "ааг_II_1"
+      },
+      {
+        "file": "ááú_I_1)_1.wav",
+        "variant": "_I_1)_1",
+        "decoded": "ааг_I_1)_1"
+      }
+    ],
+    "аагм": [
+      {
+        "file": "ááú¼.wav",
+        "variant": "",
+        "decoded": "аагм"
+      },
+      {
+        "file": "ááú¼_1.wav",
+        "variant": "_1",
+        "decoded": "аагм_1"
+      }
+    ],
+    "ааглдг": [
+      {
+        "file": "ááú½ñú.wav",
+        "variant": "",
+        "decoded": "ааглдг"
+      }
+    ],
+    "ááú½ò": [
+      {
+        "file": "ááú½Ò.wav",
+        "variant": "",
+        "decoded": "ááú½Ò"
+      }
+    ],
+    "ááú½ò_2.": [
+      {
+        "file": "ááú½Ò_2._1.wav",
+        "variant": "_1",
+        "decoded": "ááú½Ò_2._1"
+      }
+    ],
+    "ááú½õ": [
+      {
+        "file": "ááú½Õ.wav",
+        "variant": "",
+        "decoded": "ááú½Õ"
+      }
+    ],
+    "ááú½úñõ": [
+      {
+        "file": "ááú½úñÕ.wav",
+        "variant": "",
+        "decoded": "ááú½úñÕ"
+      }
+    ],
+    "ááú½ҽõ": [
+      {
+        "file": "ááú½ҽÕ.wav",
+        "variant": "",
+        "decoded": "ááú½ҽÕ"
+      }
+    ],
+    "ááúôá": [
+      {
+        "file": "ááúÔá.wav",
+        "variant": "",
+        "decoded": "ááúÔá"
+      },
+      {
+        "file": "ááúÔá_1.wav",
+        "variant": "_1",
+        "decoded": "ááúÔá_1"
+      },
+      {
+        "file": "ááúÔá_2.wav",
+        "variant": "_2",
+        "decoded": "ááúÔá_2"
+      },
+      {
+        "file": "ááúÔá_3.wav",
+        "variant": "_3",
+        "decoded": "ááúÔá_3"
+      }
+    ],
+    "ááþ": [
+      {
+        "file": "ááÞ.wav",
+        "variant": "",
+        "decoded": "ááÞ"
+      },
+      {
+        "file": "ááÞ_1.wav",
+        "variant": "_1",
+        "decoded": "ááÞ_1"
+      },
+      {
+        "file": "ááÞ_2.wav",
+        "variant": "_2",
+        "decoded": "ááÞ_2"
+      }
+    ],
+    "ááþõ": [
+      {
+        "file": "ááÞÕ.wav",
+        "variant": "",
+        "decoded": "ááÞÕ"
+      },
+      {
+        "file": "ááÞÕ_1.wav",
+        "variant": "_1",
+        "decoded": "ááÞÕ_1"
+      },
+      {
+        "file": "ááÞÕ_2.wav",
+        "variant": "_2",
+        "decoded": "ááÞÕ_2"
+      },
+      {
+        "file": "ááÞÕ_3.wav",
+        "variant": "_3",
+        "decoded": "ááÞÕ_3"
+      }
+    ],
+    "ááӵ": [
+      {
+        "file": "ááӵ.wav",
+        "variant": "",
+        "decoded": "ááӵ"
+      }
+    ],
+    "ááӵú": [
+      {
+        "file": "ááӵú.wav",
+        "variant": "",
+        "decoded": "ááӵú"
+      },
+      {
+        "file": "ááӵú_1.wav",
+        "variant": "_1",
+        "decoded": "ááӵú_1"
+      }
+    ],
+    "ááӵú½õ": [
+      {
+        "file": "ááӵú½Õ.wav",
+        "variant": "",
+        "decoded": "ááӵú½Õ"
+      }
+    ],
+    "ááӵú¿¡": [
+      {
+        "file": "ááӵú¿¡.wav",
+        "variant": "",
+        "decoded": "ááӵú¿¡"
+      }
+    ],
+    "ááӽú": [
+      {
+        "file": "ááӼú.wav",
+        "variant": "",
+        "decoded": "ááӼú"
+      },
+      {
+        "file": "ááӼú_1.wav",
+        "variant": "_1",
+        "decoded": "ááӼú_1"
+      }
+    ],
+    "ááӿ¡": [
+      {
+        "file": "ááӿ¡.wav",
+        "variant": "",
+        "decoded": "ááӿ¡"
+      }
+    ],
+    "áá޽õ": [
+      {
+        "file": "áá޽Õ.wav",
+        "variant": "",
+        "decoded": "áá޽Õ"
+      }
+    ],
+    "áá?": [
+      {
+        "file": "áá?.wav",
+        "variant": "",
+        "decoded": "áá?"
+      }
+    ],
+    "áá?_1)": [
+      {
+        "file": "áá?_1)_1.wav",
+        "variant": "_1",
+        "decoded": "áá?_1)_1"
+      }
+    ],
+    "áá?_2)": [
+      {
+        "file": "áá?_2)_1.wav",
+        "variant": "_1",
+        "decoded": "áá?_2)_1"
+      },
+      {
+        "file": "áá?_2)_3.wav",
+        "variant": "_3",
+        "decoded": "áá?_2)_3"
+      },
+      {
+        "file": "áá?_2)_4.wav",
+        "variant": "_4",
+        "decoded": "áá?_2)_4"
+      }
+    ],
+    "áí«óô": [
+      {
+        "file": "áí«ÓÔ.wav",
+        "variant": "",
+        "decoded": "áí«ÓÔ"
+      },
+      {
+        "file": "áí«ÓÔ_1.wav",
+        "variant": "_1",
+        "decoded": "áí«ÓÔ_1"
+      }
+    ],
+    "áí«óխõ": [
+      {
+        "file": "áí«ÓԽÕ.wav",
+        "variant": "",
+        "decoded": "áí«ÓԽÕ"
+      }
+    ],
+    "áí«óխҽõ": [
+      {
+        "file": "áí«ÓԽҽÕ.wav",
+        "variant": "",
+        "decoded": "áí«ÓԽҽÕ"
+      }
+    ],
+    "áí«ӿúѡ": [
+      {
+        "file": "áí«ӿúѡ.wav",
+        "variant": "",
+        "decoded": "áí«ӿúѡ"
+      }
+    ],
+    "áí¿ß߿¡": [
+      {
+        "file": "áí¿ß߿¡.wav",
+        "variant": "",
+        "decoded": "áí¿ß߿¡"
+      }
+    ],
+    "áíá®": [
+      {
+        "file": "áíá®.wav",
+        "variant": "",
+        "decoded": "áíá®"
+      }
+    ],
+    "áííóñó¿áôòó": [
+      {
+        "file": "áííÓÑó¿áÔÒÓ.wav",
+        "variant": "",
+        "decoded": "áííÓÑó¿áÔÒÓ"
+      }
+    ],
+    "áíõáº": [
+      {
+        "file": "áíÕáº.wav",
+        "variant": "",
+        "decoded": "áíÕáº"
+      },
+      {
+        "file": "áíÕáº_1.wav",
+        "variant": "_1",
+        "decoded": "áíÕáº_1"
+      },
+      {
+        "file": "áíÕáº_2.wav",
+        "variant": "_2",
+        "decoded": "áíÕáº_2"
+      },
+      {
+        "file": "áíÕáº_3.wav",
+        "variant": "_3",
+        "decoded": "áíÕáº_3"
+      }
+    ],
+    "áíßôóá¬ԡ": [
+      {
+        "file": "áíßÔÓá¬ԡ.wav",
+        "variant": "",
+        "decoded": "áíßÔÓá¬ԡ"
+      },
+      {
+        "file": "áíßÔÓá¬ԡ_1.wav",
+        "variant": "_1",
+        "decoded": "áíßÔÓá¬ԡ_1"
+      }
+    ],
+    "áíßôóᬵ": [
+      {
+        "file": "áíßÔÓᬵ.wav",
+        "variant": "",
+        "decoded": "áíßÔÓᬵ"
+      }
+    ],
+    "áí߫½¯ô": [
+      {
+        "file": "áí߫½¯Ô.wav",
+        "variant": "",
+        "decoded": "áí߫½¯Ô"
+      }
+    ],
+    "áí߫½¯ԡ": [
+      {
+        "file": "áí߫½¯ԡ.wav",
+        "variant": "",
+        "decoded": "áí߫½¯ԡ"
+      },
+      {
+        "file": "áí߫½¯ԡ_1.wav",
+        "variant": "_1",
+        "decoded": "áí߫½¯ԡ_1"
+      }
+    ],
+    "áí߫½¯կº¼": [
+      {
+        "file": "áí߫½¯Կº¼.wav",
+        "variant": "",
+        "decoded": "áí߫½¯Կº¼"
+      }
+    ],
+    "áíế¡": [
+      {
+        "file": "áíế¡.wav",
+        "variant": "",
+        "decoded": "áíế¡"
+      },
+      {
+        "file": "áíế¡_1.wav",
+        "variant": "_1",
+        "decoded": "áíế¡_1"
+      },
+      {
+        "file": "áíế¡_2.wav",
+        "variant": "_2",
+        "decoded": "áíế¡_2"
+      },
+      {
+        "file": "áíế¡_3.wav",
+        "variant": "_3",
+        "decoded": "áíế¡_3"
+      }
+    ],
+    "ав": [
+      {
+        "file": "áó.wav",
+        "variant": "",
+        "decoded": "ав"
+      },
+      {
+        "file": "áó_III_1.wav",
+        "variant": "_III_1",
+        "decoded": "ав_III_1"
+      },
+      {
+        "file": "áó_III_2.wav",
+        "variant": "_III_2",
+        "decoded": "ав_III_2"
+      },
+      {
+        "file": "áó_III_3.wav",
+        "variant": "_III_3",
+        "decoded": "ав_III_3"
+      },
+      {
+        "file": "áó_II_1)_1.wav",
+        "variant": "_II_1)_1",
+        "decoded": "ав_II_1)_1"
+      },
+      {
+        "file": "áó_II_2)_1.wav",
+        "variant": "_II_2)_1",
+        "decoded": "ав_II_2)_1"
+      },
+      {
+        "file": "áó_II_2)_2.wav",
+        "variant": "_II_2)_2",
+        "decoded": "ав_II_2)_2"
+      },
+      {
+        "file": "áó_II_2)_3.wav",
+        "variant": "_II_2)_3",
+        "decoded": "ав_II_2)_3"
+      },
+      {
+        "file": "áó_IV_1.wav",
+        "variant": "_IV_1",
+        "decoded": "ав_IV_1"
+      },
+      {
+        "file": "áó_IV_2.wav",
+        "variant": "_IV_2",
+        "decoded": "ав_IV_2"
+      },
+      {
+        "file": "áó_I_2.wav",
+        "variant": "_I_2",
+        "decoded": "ав_I_2"
+      }
+    ],
+    "авн": [
+      {
+        "file": "áó¡.wav",
+        "variant": "",
+        "decoded": "авн"
+      },
+      {
+        "file": "áó¡_1.wav",
+        "variant": "_1",
+        "decoded": "авн_1"
+      }
+    ],
+    "áó¼ôõá": [
+      {
+        "file": "áó¼ÔÕá.wav",
+        "variant": "",
+        "decoded": "áó¼ÔÕá"
+      }
+    ],
+    "áó½áþ": [
+      {
+        "file": "áó½áþ.wav",
+        "variant": "",
+        "decoded": "áó½áþ"
+      },
+      {
+        "file": "áó½áþ_1.wav",
+        "variant": "_1",
+        "decoded": "áó½áþ_1"
+      }
+    ],
+    "áó½ô": [
+      {
+        "file": "áó½Ô.wav",
+        "variant": "",
+        "decoded": "áó½Ô"
+      }
+    ],
+    "áó½õ": [
+      {
+        "file": "áó½Õ.wav",
+        "variant": "",
+        "decoded": "áó½Õ"
+      }
+    ],
+    "áó½õ_1)": [
+      {
+        "file": "áó½Õ_1)_1.wav",
+        "variant": "_1",
+        "decoded": "áó½Õ_1)_1"
+      }
+    ],
+    "áó½úñõ": [
+      {
+        "file": "áó½úñÕ.wav",
+        "variant": "",
+        "decoded": "áó½úñÕ"
+      }
+    ],
+    "áó½úñߡ": [
+      {
+        "file": "áó½úñߡ.wav",
+        "variant": "",
+        "decoded": "áó½úñߡ"
+      }
+    ],
+    "áó½ҽõ": [
+      {
+        "file": "áó½ҽÕ.wav",
+        "variant": "",
+        "decoded": "áó½ҽÕ"
+      }
+    ],
+    "авиац": [
+      {
+        "file": "áó¿áµ.wav",
+        "variant": "",
+        "decoded": "авиац"
+      },
+      {
+        "file": "áó¿áµ_1.wav",
+        "variant": "_1",
+        "decoded": "авиац_1"
+      },
+      {
+        "file": "áó¿áµ_2.wav",
+        "variant": "_2",
+        "decoded": "авиац_2"
+      }
+    ],
+    "авиазавод": [
+      {
+        "file": "áó¿áºáó«ñ.wav",
+        "variant": "",
+        "decoded": "авиазавод"
+      }
+    ],
+    "áó¿áԫó": [
+      {
+        "file": "áó¿áԫÓ.wav",
+        "variant": "",
+        "decoded": "áó¿áԫÓ"
+      }
+    ],
+    "áó¿áެ«½": [
+      {
+        "file": "áó¿áެ«½.wav",
+        "variant": "",
+        "decoded": "áó¿áެ«½"
+      }
+    ],
+    "áó¿á?í": [
+      {
+        "file": "áó¿á?í.wav",
+        "variant": "",
+        "decoded": "áó¿á?í"
+      }
+    ],
+    "áó¿ᵿ¡": [
+      {
+        "file": "áó¿ᵿ¡.wav",
+        "variant": "",
+        "decoded": "áó¿ᵿ¡"
+      },
+      {
+        "file": "áó¿ᵿ¡_1.wav",
+        "variant": "_1",
+        "decoded": "áó¿ᵿ¡_1"
+      }
+    ],
+    "áó¿ᵿ«¡¡": [
+      {
+        "file": "áó¿ᵿ«¡¡.wav",
+        "variant": "",
+        "decoded": "áó¿ᵿ«¡¡"
+      }
+    ],
+    "áó¿ừþô": [
+      {
+        "file": "áó¿ừþÔ.wav",
+        "variant": "",
+        "decoded": "áó¿ừþÔ"
+      }
+    ],
+    "áóá¡úáóñ": [
+      {
+        "file": "áóá¡úáÓñ.wav",
+        "variant": "",
+        "decoded": "áóá¡úáÓñ"
+      },
+      {
+        "file": "áóá¡úáÓñ_1.wav",
+        "variant": "_1",
+        "decoded": "áóá¡úáÓñ_1"
+      }
+    ],
+    "áóá¡úáóñ½õ": [
+      {
+        "file": "áóá¡úáÓñ½Õ.wav",
+        "variant": "",
+        "decoded": "áóá¡úáÓñ½Õ"
+      }
+    ],
+    "áóá¡úáóñ½úñõ": [
+      {
+        "file": "áóá¡úáÓñ½úñÕ.wav",
+        "variant": "",
+        "decoded": "áóá¡úáÓñ½úñÕ"
+      }
+    ],
+    "áóá¡úáóñ½ҽõ": [
+      {
+        "file": "áóá¡úáÓñ½ҽÕ.wav",
+        "variant": "",
+        "decoded": "áóá¡úáÓñ½ҽÕ"
+      }
+    ],
+    "аванс": [
+      {
+        "file": "áóá¡ß.wav",
+        "variant": "",
+        "decoded": "аванс"
+      },
+      {
+        "file": "áóá¡ß_1.wav",
+        "variant": "_1",
+        "decoded": "аванс_1"
+      }
+    ],
+    "áóá¡ßáó": [
+      {
+        "file": "áóá¡ßáÓ.wav",
+        "variant": "",
+        "decoded": "áóá¡ßáÓ"
+      },
+      {
+        "file": "áóá¡ßáÓ_1.wav",
+        "variant": "_1",
+        "decoded": "áóá¡ßáÓ_1"
+      }
+    ],
+    "áóá¡ԯó": [
+      {
+        "file": "áóá¡ԯÓ.wav",
+        "variant": "",
+        "decoded": "áóá¡ԯÓ"
+      },
+      {
+        "file": "áóá¡ԯÓ_1.wav",
+        "variant": "_1",
+        "decoded": "áóá¡ԯÓ_1"
+      }
+    ],
+    "áóá¡ԯӡ": [
+      {
+        "file": "áóá¡ԯӡ.wav",
+        "variant": "",
+        "decoded": "áóá¡ԯӡ"
+      },
+      {
+        "file": "áóá¡ԯӡ_1.wav",
+        "variant": "_1",
+        "decoded": "áóá¡ԯӡ_1"
+      }
+    ],
+    "áóá¡ԯӿº¼": [
+      {
+        "file": "áóá¡ԯӿº¼.wav",
+        "variant": "",
+        "decoded": "áóá¡ԯӿº¼"
+      },
+      {
+        "file": "áóá¡ԯӿº¼_1.wav",
+        "variant": "_1",
+        "decoded": "áóá¡ԯӿº¼_1"
+      }
+    ],
+    "áóá¡ԯӿßô": [
+      {
+        "file": "áóá¡ԯӿßÔ.wav",
+        "variant": "",
+        "decoded": "áóá¡ԯӿßÔ"
+      }
+    ],
+    "áóá¡ԯӿßկþñ߬": [
+      {
+        "file": "áóá¡ԯӿßԿþÑ߬.wav",
+        "variant": "",
+        "decoded": "áóá¡ԯӿßԿþÑ߬"
+      }
+    ],
+    "áóá¡߽õ": [
+      {
+        "file": "áóá¡߽Õ.wav",
+        "variant": "",
+        "decoded": "áóá¡߽Õ"
+      },
+      {
+        "file": "áóá¡߽Õ_1.wav",
+        "variant": "_1",
+        "decoded": "áóá¡߽Õ_1"
+      }
+    ],
+    "áóá¡߽úñõ": [
+      {
+        "file": "áóá¡߽úñÕ.wav",
+        "variant": "",
+        "decoded": "áóá¡߽úñÕ"
+      }
+    ],
+    "áóá¡߿¡": [
+      {
+        "file": "áóá¡߿¡.wav",
+        "variant": "",
+        "decoded": "áóá¡߿¡"
+      },
+      {
+        "file": "áóá¡߿¡_1.wav",
+        "variant": "_1",
+        "decoded": "áóá¡߿¡_1"
+      }
+    ],
+    "áóá½ý úñóú¡": [
+      {
+        "file": "áóá½ý úÑÓú¡.wav",
+        "variant": "",
+        "decoded": "áóá½ý úÑÓú¡"
+      }
+    ],
+    "áóá½ý": [
+      {
+        "file": "áóá½ý.wav",
+        "variant": "",
+        "decoded": "áóá½ý"
+      },
+      {
+        "file": "áóá½ý_1.wav",
+        "variant": "_1",
+        "decoded": "áóá½ý_1"
+      },
+      {
+        "file": "áóá½ý_2.wav",
+        "variant": "_2",
+        "decoded": "áóá½ý_2"
+      },
+      {
+        "file": "áóá½ý_3.wav",
+        "variant": "_3",
+        "decoded": "áóá½ý_3"
+      }
+    ],
+    "áóáó": [
+      {
+        "file": "áóáÓ.wav",
+        "variant": "",
+        "decoded": "áóáÓ"
+      },
+      {
+        "file": "áóáÓ_1.wav",
+        "variant": "_1",
+        "decoded": "áóáÓ_1"
+      },
+      {
+        "file": "áóáÓ_2.wav",
+        "variant": "_2",
+        "decoded": "áóáÓ_2"
+      },
+      {
+        "file": "áóáÓ_3.wav",
+        "variant": "_3",
+        "decoded": "áóáÓ_3"
+      }
+    ],
+    "áóáþ": [
+      {
+        "file": "áóáþ.wav",
+        "variant": "",
+        "decoded": "áóáþ"
+      },
+      {
+        "file": "áóáþ_1.wav",
+        "variant": "_1",
+        "decoded": "áóáþ_1"
+      }
+    ],
+    "áóñó": [
+      {
+        "file": "áóñÓ.wav",
+        "variant": "",
+        "decoded": "áóñÓ"
+      },
+      {
+        "file": "áóñÓ_1.wav",
+        "variant": "_1",
+        "decoded": "áóñÓ_1"
+      },
+      {
+        "file": "áóñÓ_2.wav",
+        "variant": "_2",
+        "decoded": "áóñÓ_2"
+      },
+      {
+        "file": "áóñÓ_3.wav",
+        "variant": "_3",
+        "decoded": "áóñÓ_3"
+      }
+    ],
+    "áóñӽµõ": [
+      {
+        "file": "áóñӽµÕ.wav",
+        "variant": "",
+        "decoded": "áóñӽµÕ"
+      }
+    ],
+    "áóñӽõ": [
+      {
+        "file": "áóñӽÕ.wav",
+        "variant": "",
+        "decoded": "áóñӽÕ"
+      }
+    ],
+    "áóñӽõ_1.": [
+      {
+        "file": "áóñӽÕ_1._1.wav",
+        "variant": "_1",
+        "decoded": "áóñӽÕ_1._1"
+      }
+    ],
+    "áóñӽúñõ": [
+      {
+        "file": "áóñӽúñÕ.wav",
+        "variant": "",
+        "decoded": "áóñӽúñÕ"
+      }
+    ],
+    "áóñӽҽõ": [
+      {
+        "file": "áóñӽҽÕ.wav",
+        "variant": "",
+        "decoded": "áóñӽҽÕ"
+      }
+    ],
+    "áóñӿ¡": [
+      {
+        "file": "áóñӿ¡.wav",
+        "variant": "",
+        "decoded": "áóñӿ¡"
+      },
+      {
+        "file": "áóñӿ¡_1.wav",
+        "variant": "_1",
+        "decoded": "áóñӿ¡_1"
+      }
+    ],
+    "áóó-ôáóó": [
+      {
+        "file": "áóÓ-ÔáóÓ.wav",
+        "variant": "",
+        "decoded": "áóÓ-ÔáóÓ"
+      }
+    ],
+    "áóó-ôáóó_1)": [
+      {
+        "file": "áóÓ-ÔáóÓ_1)_1.wav",
+        "variant": "_1",
+        "decoded": "áóÓ-ÔáóÓ_1)_1"
+      },
+      {
+        "file": "áóÓ-ÔáóÓ_1)_2.wav",
+        "variant": "_2",
+        "decoded": "áóÓ-ÔáóÓ_1)_2"
+      }
+    ],
+    "áóóáþ": [
+      {
+        "file": "áóÓáþ.wav",
+        "variant": "",
+        "decoded": "áóÓáþ"
+      },
+      {
+        "file": "áóÓáþ_1.wav",
+        "variant": "_1",
+        "decoded": "áóÓáþ_1"
+      }
+    ],
+    "áóóõ": [
+      {
+        "file": "áóÓÕ.wav",
+        "variant": "",
+        "decoded": "áóÓÕ"
+      }
+    ],
+    "áóóúñõ": [
+      {
+        "file": "áóÓúñÕ.wav",
+        "variant": "",
+        "decoded": "áóÓúñÕ"
+      }
+    ],
+    "áóóҽõ": [
+      {
+        "file": "áóÓҽÕ.wav",
+        "variant": "",
+        "decoded": "áóÓҽÕ"
+      }
+    ],
+    "авг": [
+      {
+        "file": "áóú.wav",
+        "variant": "",
+        "decoded": "авг"
+      }
+    ],
+    "áóú½õ": [
+      {
+        "file": "áóú½Õ.wav",
+        "variant": "",
+        "decoded": "áóú½Õ"
+      },
+      {
+        "file": "áóú½Õ_1.wav",
+        "variant": "_1",
+        "decoded": "áóú½Õ_1"
+      }
+    ],
+    "áóúñõ": [
+      {
+        "file": "áóúñÕ.wav",
+        "variant": "",
+        "decoded": "áóúñÕ"
+      },
+      {
+        "file": "áóúñÕ_1.wav",
+        "variant": "_1",
+        "decoded": "áóúñÕ_1"
+      },
+      {
+        "file": "áóúñÕ_2.wav",
+        "variant": "_2",
+        "decoded": "áóúñÕ_2"
+      },
+      {
+        "file": "áóúñÕ_3.wav",
+        "variant": "_3",
+        "decoded": "áóúñÕ_3"
+      }
+    ],
+    "áóúñþú«": [
+      {
+        "file": "áóúñÞú«.wav",
+        "variant": "",
+        "decoded": "áóúñÞú«"
+      },
+      {
+        "file": "áóúñÞú«_1.wav",
+        "variant": "_1",
+        "decoded": "áóúñÞú«_1"
+      },
+      {
+        "file": "áóúñÞú«_2.wav",
+        "variant": "_2",
+        "decoded": "áóúñÞú«_2"
+      }
+    ],
+    "áóúòßô": [
+      {
+        "file": "áóúÒßÔ.wav",
+        "variant": "",
+        "decoded": "áóúÒßÔ"
+      }
+    ],
+    "áóúòßկ¡": [
+      {
+        "file": "áóúÒßԿ¡.wav",
+        "variant": "",
+        "decoded": "áóúÒßԿ¡"
+      },
+      {
+        "file": "áóúÒßԿ¡_1.wav",
+        "variant": "_1",
+        "decoded": "áóúÒßԿ¡_1"
+      }
+    ],
+    "áóúôá": [
+      {
+        "file": "áóúÔá.wav",
+        "variant": "",
+        "decoded": "áóúÔá"
+      },
+      {
+        "file": "áóúÔá_1.wav",
+        "variant": "_1",
+        "decoded": "áóúÔá_1"
+      }
+    ],
+    "áóúôá¡": [
+      {
+        "file": "áóúÔá¡.wav",
+        "variant": "",
+        "decoded": "áóúÔá¡"
+      },
+      {
+        "file": "áóúÔá¡_2.wav",
+        "variant": "_2",
+        "decoded": "áóúÔá¡_2"
+      }
+    ],
+    "áóúþ": [
+      {
+        "file": "áóúþ.wav",
+        "variant": "",
+        "decoded": "áóúþ"
+      },
+      {
+        "file": "áóúþ_1.wav",
+        "variant": "_1",
+        "decoded": "áóúþ_1"
+      },
+      {
+        "file": "áóúþ_2.wav",
+        "variant": "_2",
+        "decoded": "áóúþ_2"
+      }
+    ],
+    "áóӽ": [
+      {
+        "file": "áóӽ.wav",
+        "variant": "",
+        "decoded": "áóӽ"
+      }
+    ],
+    "áóӽ_1)": [
+      {
+        "file": "áóӽ_1)_1.wav",
+        "variant": "_1",
+        "decoded": "áóӽ_1)_1"
+      }
+    ],
+    "áóӽµõ": [
+      {
+        "file": "áóӽµÕ.wav",
+        "variant": "",
+        "decoded": "áóӽµÕ"
+      }
+    ],
+    "áóӽô": [
+      {
+        "file": "áóӽÔ.wav",
+        "variant": "",
+        "decoded": "áóӽÔ"
+      }
+    ],
+    "áóӽô_2)": [
+      {
+        "file": "áóӽÔ_2)_1.wav",
+        "variant": "_1",
+        "decoded": "áóӽÔ_2)_1"
+      },
+      {
+        "file": "áóӽÔ_2)_2.wav",
+        "variant": "_2",
+        "decoded": "áóӽÔ_2)_2"
+      },
+      {
+        "file": "áóӽÔ_2)_3.wav",
+        "variant": "_3",
+        "decoded": "áóӽÔ_2)_3"
+      },
+      {
+        "file": "áóӽÔ_2)_4.wav",
+        "variant": "_4",
+        "decoded": "áóӽÔ_2)_4"
+      }
+    ],
+    "á?ѡô": [
+      {
+        "file": "á?ѡÔ.wav",
+        "variant": "",
+        "decoded": "á?ѡÔ"
+      },
+      {
+        "file": "á?ѡÔ_1.wav",
+        "variant": "_1",
+        "decoded": "á?ѡÔ_1"
+      }
+    ],
+    "á?ѽѡô": [
+      {
+        "file": "á?ѼѡÔ.wav",
+        "variant": "",
+        "decoded": "á?ѼѡÔ"
+      },
+      {
+        "file": "á?ѼѡÔ_1.wav",
+        "variant": "_1",
+        "decoded": "á?ѼѡÔ_1"
+      }
+    ],
+    "á?ѽѡկ¡": [
+      {
+        "file": "á?ѼѡԿ¡.wav",
+        "variant": "",
+        "decoded": "á?ѼѡԿ¡"
+      },
+      {
+        "file": "á?ѼѡԿ¡_1.wav",
+        "variant": "_1",
+        "decoded": "á?ѼѡԿ¡_1"
+      }
+    ],
+    "á?á¡": [
+      {
+        "file": "á?á¡.wav",
+        "variant": "",
+        "decoded": "á?á¡"
+      },
+      {
+        "file": "á?á¡_1.wav",
+        "variant": "_1",
+        "decoded": "á?á¡_1"
+      }
+    ],
+    "á?ò½õ": [
+      {
+        "file": "á?Ò½Õ.wav",
+        "variant": "",
+        "decoded": "á?Ò½Õ"
+      }
+    ],
+    "á?õ": [
+      {
+        "file": "á?Õ.wav",
+        "variant": "",
+        "decoded": "á?Õ"
+      }
+    ],
+    "á?õ_2)": [
+      {
+        "file": "á?Õ_2)_1.wav",
+        "variant": "_1",
+        "decoded": "á?Õ_2)_1"
+      },
+      {
+        "file": "á?Õ_2)_2.wav",
+        "variant": "_2",
+        "decoded": "á?Õ_2)_2"
+      },
+      {
+        "file": "á?Õ_2)_3.wav",
+        "variant": "_3",
+        "decoded": "á?Õ_2)_3"
+      },
+      {
+        "file": "á?Õ_2)_4.wav",
+        "variant": "_4",
+        "decoded": "á?Õ_2)_4"
+      },
+      {
+        "file": "á?Õ_2)_5.wav",
+        "variant": "_5",
+        "decoded": "á?Õ_2)_5"
+      }
+    ],
+    "ð¦ð¦ê+-ðüð¦ð¦": [
+      {
+        "file": "ð¦ð¦Ê+-Ðüð¦ð¦.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦Ê+-Ðüð¦ð¦"
+      },
+      {
+        "file": "ð¦ð¦Ê+-Ðüð¦ð¦_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦Ê+-Ðüð¦ð¦_1"
+      }
+    ],
+    "ð¦ð¦ê+": [
+      {
+        "file": "ð¦ð¦Ê+.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦Ê+"
+      },
+      {
+        "file": "ð¦ð¦Ê+_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦Ê+_1"
+      },
+      {
+        "file": "ð¦ð¦Ê+_2.wav",
+        "variant": "_2",
+        "decoded": "ð¦ð¦Ê+_2"
+      },
+      {
+        "file": "ð¦ð¦Ê+_3.wav",
+        "variant": "_3",
+        "decoded": "ð¦ð¦Ê+_3"
+      },
+      {
+        "file": "ð¦ð¦Ê+_4.wav",
+        "variant": "_4",
+        "decoded": "ð¦ð¦Ê+_4"
+      },
+      {
+        "file": "ð¦ð¦Ê+_5.wav",
+        "variant": "_5",
+        "decoded": "ð¦ð¦Ê+_5"
+      },
+      {
+        "file": "ð¦ð¦Ê+_6.wav",
+        "variant": "_6",
+        "decoded": "ð¦ð¦Ê+_6"
+      },
+      {
+        "file": "ð¦ð¦Ê+_7.wav",
+        "variant": "_7",
+        "decoded": "ð¦ð¦Ê+_7"
+      },
+      {
+        "file": "ð¦ð¦Ê+_8.wav",
+        "variant": "_8",
+        "decoded": "ð¦ð¦Ê+_8"
+      },
+      {
+        "file": "ð¦ð¦Ê+_9.wav",
+        "variant": "_9",
+        "decoded": "ð¦ð¦Ê+_9"
+      }
+    ],
+    "ð¦ð¦ê+ð+ðà": [
+      {
+        "file": "ð¦ð¦Ê+ð+Ðà.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦Ê+ð+Ðà"
+      },
+      {
+        "file": "ð¦ð¦Ê+ð+Ðà_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦Ê+ð+Ðà_1"
+      }
+    ],
+    "ð¦ð¦ê+ð+ðâð+ðà": [
+      {
+        "file": "ð¦ð¦Ê+ð+Ðâð+Ðà.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦Ê+ð+Ðâð+Ðà"
+      }
+    ],
+    "ð¦ð¦ê+ð¢ð¦": [
+      {
+        "file": "ð¦ð¦Ê+ð¢ð¦.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦Ê+ð¢ð¦"
+      },
+      {
+        "file": "ð¦ð¦Ê+ð¢ð¦_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦Ê+ð¢ð¦_1"
+      },
+      {
+        "file": "ð¦ð¦Ê+ð¢ð¦_2.wav",
+        "variant": "_2",
+        "decoded": "ð¦ð¦Ê+ð¢ð¦_2"
+      }
+    ],
+    "ð¦ð¦ê+ð¢ð¦ð©ð¢": [
+      {
+        "file": "ð¦ð¦Ê+ð¢ð¦ð©ð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦Ê+ð¢ð¦ð©ð¢"
+      }
+    ],
+    "ð¦ð¦ê+ð¢ðç": [
+      {
+        "file": "ð¦ð¦Ê+ð¢ÐÇ.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦Ê+ð¢ÐÇ"
+      }
+    ],
+    "ð¦ð¦ê+ð¦": [
+      {
+        "file": "ð¦ð¦Ê+ð¦.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦Ê+ð¦"
+      }
+    ],
+    "ð¦ð¦ê+ð©ð¢": [
+      {
+        "file": "ð¦ð¦Ê+ð©ð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦Ê+ð©ð¢"
+      },
+      {
+        "file": "ð¦ð¦Ê+ð©ð¢_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦Ê+ð©ð¢_1"
+      },
+      {
+        "file": "ð¦ð¦Ê+ð©ð¢_2.wav",
+        "variant": "_2",
+        "decoded": "ð¦ð¦Ê+ð©ð¢_2"
+      },
+      {
+        "file": "ð¦ð¦Ê+ð©ð¢_3.wav",
+        "variant": "_3",
+        "decoded": "ð¦ð¦Ê+ð©ð¢_3"
+      },
+      {
+        "file": "ð¦ð¦Ê+ð©ð¢_4.wav",
+        "variant": "_4",
+        "decoded": "ð¦ð¦Ê+ð©ð¢_4"
+      }
+    ],
+    "ð¦ð¦ê+ðç": [
+      {
+        "file": "ð¦ð¦Ê+Ðç.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦Ê+Ðç"
+      }
+    ],
+    "ð¦ð¦ð+ê+": [
+      {
+        "file": "ð¦ð¦ð+Ê+.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ð+Ê+"
+      },
+      {
+        "file": "ð¦ð¦ð+Ê+_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ð+Ê+_1"
+      }
+    ],
+    "ð¦ð¦ð+ê+ð¢": [
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ð+Ê+ð¢"
+      }
+    ],
+    "ð¦ð¦ð+ê+ð¢_1)": [
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_1)_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_1)_1"
+      },
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_1)_2.wav",
+        "variant": "_2",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_1)_2"
+      }
+    ],
+    "ð¦ð¦ð+ê+ð¢_2)": [
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_2)_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_2)_1"
+      }
+    ],
+    "ð¦ð¦ð+ê+ð¢_3)": [
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_3)_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_3)_1"
+      },
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_3)_2.wav",
+        "variant": "_2",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_3)_2"
+      },
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_3)_3.wav",
+        "variant": "_3",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_3)_3"
+      }
+    ],
+    "ð¦ð¦ð+ê+ð¢_4)": [
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_4)_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_4)_1"
+      },
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_4)_2.wav",
+        "variant": "_2",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_4)_2"
+      },
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_4)_3.wav",
+        "variant": "_3",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_4)_3"
+      }
+    ],
+    "ð¦ð¦ð+ê+ð¢_5)": [
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_5)_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_5)_1"
+      },
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_5)_2.wav",
+        "variant": "_2",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_5)_2"
+      }
+    ],
+    "ð¦ð¦ð+ê+ð¢_6)": [
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_6)_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_6)_1"
+      },
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_6)_2.wav",
+        "variant": "_2",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_6)_2"
+      },
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_6)_3.wav",
+        "variant": "_3",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_6)_3"
+      },
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_6)_4.wav",
+        "variant": "_4",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_6)_4"
+      }
+    ],
+    "ð¦ð¦ð+ê+ð¢_7)": [
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢_7)_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ð+Ê+ð¢_7)_1"
+      }
+    ],
+    "ð¦ð¦ð+ê+ð¢ð¦": [
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢ð¦.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ð+Ê+ð¢ð¦"
+      },
+      {
+        "file": "ð¦ð¦ð+Ê+ð¢ð¦_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ð+Ê+ð¢ð¦_1"
+      }
+    ],
+    "ð¦ð¦ð+ê+ð¦": [
+      {
+        "file": "ð¦ð¦ð+Ê+ð¦.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ð+Ê+ð¦"
+      }
+    ],
+    "ð¦ð¦ð+ê+ðç": [
+      {
+        "file": "ð¦ð¦ð+Ê+Ðç.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ð+Ê+Ðç"
+      },
+      {
+        "file": "ð¦ð¦ð+Ê+Ðç_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ð+Ê+Ðç_1"
+      }
+    ],
+    "ð¦ð¦ð+ð+ê+ð¢": [
+      {
+        "file": "ð¦ð¦ð+ð+Ê+ð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ð+ð+Ê+ð¢"
+      }
+    ],
+    "ð¦ð¦ð+ð¦ð¦ð+ê+ð¢": [
+      {
+        "file": "ð¦ð¦ð+ð¦ð¦ð+Ê+ð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ð+ð¦ð¦ð+Ê+ð¢"
+      }
+    ],
+    "ð¦ð¦ð¦ð+ð+ê+ð¢": [
+      {
+        "file": "ð¦ð¦ð¦ð+ð+Ê+ð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ð¦ð+ð+Ê+ð¢"
+      }
+    ],
+    "ð¦ð¦ð¦ð¢ðüð+ð+ê+ð¢": [
+      {
+        "file": "ð¦ð¦ð¦ð¢Ðüð+ð+Ê+ð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ð¦ð¢Ðüð+ð+Ê+ð¢"
+      }
+    ],
+    "ð¦ð¦ð¦ð©ð¢ëöðç": [
+      {
+        "file": "ð¦ð¦ð¦ð©ð¢ËÖÐÇ.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ð¦ð©ð¢ËÖÐÇ"
+      }
+    ],
+    "ð¦ð¦ð¦ðâð+ð+ê+ð¢": [
+      {
+        "file": "ð¦ð¦ð¦Ðâð+ð+Ê+ð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ð¦Ðâð+ð+Ê+ð¢"
+      }
+    ],
+    "ð¦ð¦ðàê+": [
+      {
+        "file": "ð¦ð¦ðÀÊ+.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ðÀÊ+"
+      },
+      {
+        "file": "ð¦ð¦ðÀÊ+_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ðÀÊ+_1"
+      }
+    ],
+    "ð¦ð¦ðàê+ð¦": [
+      {
+        "file": "ð¦ð¦ðÀÊ+ð¦.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ðÀÊ+ð¦"
+      },
+      {
+        "file": "ð¦ð¦ðÀÊ+ð¦_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ðÀÊ+ð¦_1"
+      }
+    ],
+    "ð¦ð¦ðçê+": [
+      {
+        "file": "ð¦ð¦ÐÇÊ+.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ÐÇÊ+"
+      },
+      {
+        "file": "ð¦ð¦ÐÇÊ+_II_1.wav",
+        "variant": "_II_1",
+        "decoded": "ð¦ð¦ÐÇÊ+_II_1"
+      },
+      {
+        "file": "ð¦ð¦ÐÇÊ+_II_2.wav",
+        "variant": "_II_2",
+        "decoded": "ð¦ð¦ÐÇÊ+_II_2"
+      },
+      {
+        "file": "ð¦ð¦ÐÇÊ+_II_3.wav",
+        "variant": "_II_3",
+        "decoded": "ð¦ð¦ÐÇÊ+_II_3"
+      },
+      {
+        "file": "ð¦ð¦ÐÇÊ+_II_4.wav",
+        "variant": "_II_4",
+        "decoded": "ð¦ð¦ÐÇÊ+_II_4"
+      },
+      {
+        "file": "ð¦ð¦ÐÇÊ+_II_5.wav",
+        "variant": "_II_5",
+        "decoded": "ð¦ð¦ÐÇÊ+_II_5"
+      },
+      {
+        "file": "ð¦ð¦ÐÇÊ+_II_6.wav",
+        "variant": "_II_6",
+        "decoded": "ð¦ð¦ÐÇÊ+_II_6"
+      },
+      {
+        "file": "ð¦ð¦ÐÇÊ+_II_7.wav",
+        "variant": "_II_7",
+        "decoded": "ð¦ð¦ÐÇÊ+_II_7"
+      },
+      {
+        "file": "ð¦ð¦ÐÇÊ+_I_1.wav",
+        "variant": "_I_1",
+        "decoded": "ð¦ð¦ÐÇÊ+_I_1"
+      }
+    ],
+    "ð¦ð¦ðçê+ð¢ð+ê+ð¢": [
+      {
+        "file": "ð¦ð¦ÐÇÊ+ð¢ð+Ê+ð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ÐÇÊ+ð¢ð+Ê+ð¢"
+      }
+    ],
+    "ð¦ð¦ðçê+ð¢ðà": [
+      {
+        "file": "ð¦ð¦ÐÇÊ+ð¢Ðà.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ÐÇÊ+ð¢Ðà"
+      },
+      {
+        "file": "ð¦ð¦ÐÇÊ+ð¢Ðà_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ÐÇÊ+ð¢Ðà_1"
+      }
+    ],
+    "ð¦ð¦ðçê+ð¢ðâð+ðà": [
+      {
+        "file": "ð¦ð¦ÐÇÊ+ð¢Ðâð+Ðà.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ÐÇÊ+ð¢Ðâð+Ðà"
+      }
+    ],
+    "ð¦ð¦ðçê+ð¦ðà": [
+      {
+        "file": "ð¦ð¦ÐÇÊ+ð¦Ðà.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ÐÇÊ+ð¦Ðà"
+      }
+    ],
+    "ð¦ð¦ðçê+ð¦ðâð+ðà": [
+      {
+        "file": "ð¦ð¦ÐÇÊ+ð¦Ðâð+Ðà.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ÐÇÊ+ð¦Ðâð+Ðà"
+      }
+    ],
+    "ð¦ð¦ðçê+ðâ": [
+      {
+        "file": "ð¦ð¦ÐÇÊ+Ðâ.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ÐÇÊ+Ðâ"
+      }
+    ],
+    "ð¦ð¦ðçð+ê+ð¢": [
+      {
+        "file": "ð¦ð¦ÐÇð+Ê+ð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ÐÇð+Ê+ð¢"
+      },
+      {
+        "file": "ð¦ð¦ÐÇð+Ê+ð¢_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ÐÇð+Ê+ð¢_1"
+      }
+    ],
+    "ð¦ð¦ðçð+ê+ð¢ð¦": [
+      {
+        "file": "ð¦ð¦ÐÇð+Ê+ð¢ð¦.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ÐÇð+Ê+ð¢ð¦"
+      },
+      {
+        "file": "ð¦ð¦ÐÇð+Ê+ð¢ð¦_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ÐÇð+Ê+ð¢ð¦_1"
+      },
+      {
+        "file": "ð¦ð¦ÐÇð+Ê+ð¢ð¦_2.wav",
+        "variant": "_2",
+        "decoded": "ð¦ð¦ÐÇð+Ê+ð¢ð¦_2"
+      }
+    ],
+    "ð¦ð¦ðçð¦ð+ð+ê+ð¢": [
+      {
+        "file": "ð¦ð¦ÐÇð¦ð+ð+Ê+ð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ÐÇð¦ð+ð+Ê+ð¢"
+      }
+    ],
+    "ð¦ð¦ðçð¦ð+ð+ê+ð¢_2)": [
+      {
+        "file": "ð¦ð¦ÐÇð¦ð+ð+Ê+ð¢_2)_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ÐÇð¦ð+ð+Ê+ð¢_2)_1"
+      }
+    ],
+    "ð¦ð¦ðçð©ð¢ê+ðüð¢": [
+      {
+        "file": "ð¦ð¦ÐÇð©ð¢Ê+Ðüð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ÐÇð©ð¢Ê+Ðüð¢"
+      }
+    ],
+    "ð¦ð¦ðéðçðâð+ð+ê+ð¢": [
+      {
+        "file": "ð¦ð¦ÐéÐÇÐâð+ð+Ê+ð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦ÐéÐÇÐâð+ð+Ê+ð¢"
+      },
+      {
+        "file": "ð¦ð¦ÐéÐÇÐâð+ð+Ê+ð¢_1.wav",
+        "variant": "_1",
+        "decoded": "ð¦ð¦ÐéÐÇÐâð+ð+Ê+ð¢_1"
+      }
+    ],
+    "ð¦ð¦ðêð+ê+ð¢": [
+      {
+        "file": "ð¦ð¦Ðêð+Ê+ð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦Ðêð+Ê+ð¢"
+      },
+      {
+        "file": "ð¦ð¦Ðêð+Ê+ð¢_II_1.wav",
+        "variant": "_II_1",
+        "decoded": "ð¦ð¦Ðêð+Ê+ð¢_II_1"
+      },
+      {
+        "file": "ð¦ð¦Ðêð+Ê+ð¢_II_2.wav",
+        "variant": "_II_2",
+        "decoded": "ð¦ð¦Ðêð+Ê+ð¢_II_2"
+      }
+    ],
+    "ð¦ð¦ðêð+ð+ê+ð¢": [
+      {
+        "file": "ð¦ð¦Ðêð+ð+Ê+ð¢.wav",
+        "variant": "",
+        "decoded": "ð¦ð¦Ðêð+ð+Ê+ð¢"
+      }
+    ]
+  }
+}
