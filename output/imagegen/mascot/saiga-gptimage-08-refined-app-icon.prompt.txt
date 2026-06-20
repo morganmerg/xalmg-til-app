@@ -1,0 +1,9 @@
+﻿Use case: stylized-concept
+Asset type: mobile app mascot app icon refinement
+Input images: user-selected Image #1 as the main composition/style reference; Image #2 as secondary reference for the collar and embroidery language.
+Primary request: refine the cute saiga calf app icon for the Kalmyk language app.
+Subject: front-facing young saiga calf mascot, friendly and calm, clearly saiga with a compact rounded muzzle, small horns, large ears, warm eyes.
+Style/medium: polished educational mobile app illustration, clean icon-ready raster art, soft painterly detail but simplified enough to scale down.
+Composition/framing: centered bust portrait in a circular emblem, lotus base and Kalmykia-inspired blue/yellow/red palette, generous padding, no text.
+Cultural constraints: draw from the Kalmykia emblem colors, lotus/zala motif and Kalmyk costume red-black-gold collar embroidery; do not copy the official emblem exactly.
+Avoid: Kazakh ornament loops, generic Turkic carpet/yurt motifs, elephant trunk nose, misplaced eyes, extra limbs, deformed horns, text, watermark.

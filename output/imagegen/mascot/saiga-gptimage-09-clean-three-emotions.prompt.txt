@@ -1,0 +1,9 @@
+﻿Use case: stylized-concept
+Asset type: mobile app mascot emotion set refinement
+Input images: user-selected Image #2 as the general mascot/emotion style reference; Image #1 as palette and emblem/lotus reference.
+Primary request: create a clean small emotion set with fewer poses to avoid artifacts.
+Subject: the same cute young saiga calf mascot, clearly saiga, compact rounded muzzle, small horns, large ears, warm expressive eyes, wearing a simple Kalmyk-inspired red-black-gold collar.
+Style/medium: polished educational mobile app illustration, warm friendly character stickers, consistent identity across poses.
+Composition/framing: exactly three large separate poses on a clean light background: 1) welcoming/waving, 2) listening/audio practice with one ear raised, 3) correct-answer success smile. No grid of many tiny variants.
+Cultural constraints: use Kalmykia emblem colors and simple lotus/zala accents; keep ornament restrained and Kalmyk-inspired from costume reference.
+Avoid: Kazakh ornament loops, generic Turkic carpet/yurt motifs, elephant trunk nose, long hanging trunk, misplaced eyes, crossed eyes, extra limbs, broken hooves, text, watermark.

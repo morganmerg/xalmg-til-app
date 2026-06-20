@@ -6,6 +6,10 @@ Corrected Kalmyk reference board:
 
 https://www.figma.com/design/jymxX0HIwJwSIfFosmfe9q?node-id=20-2
 
+Refined icon and clean emotion set:
+
+https://www.figma.com/design/jymxX0HIwJwSIfFosmfe9q?node-id=26-2
+
 These are real GPT Image PNG outputs extracted from the Codex session log and saved locally.
 
 ## Files
@@ -20,6 +24,8 @@ These are real GPT Image PNG outputs extracted from the Codex session log and sa
 - `output/imagegen/mascot/saiga-gptimage-05-emotion-set.png`
 - `output/imagegen/mascot/saiga-gptimage-06-kalmyk-emblem-icon-candidates.png`
 - `output/imagegen/mascot/saiga-gptimage-07-kalmyk-costume-emotion-set.png`
+- `output/imagegen/mascot/saiga-gptimage-08-refined-app-icon.png`
+- `output/imagegen/mascot/saiga-gptimage-09-clean-three-emotions.png`
 - `output/imagegen/mascot/saiga-mascot-candidates-board.png`
 - `output/imagegen/mascot/saiga-kalmyk-corrected-board.png`
 
@@ -33,6 +39,8 @@ Each GPT Image output has a matching `.prompt.txt` file in the same directory.
 - `05` is useful for in-lesson mascot reactions and feedback states.
 - `06` fixes the palette and Kalmykia emblem direction, but is too heavy to use directly in UI.
 - `07` is the best current direction for in-app mascot reactions: black/red collar, gold embroidery, small tassel, lotus accents.
+- `08` is the strongest current app icon direction: simpler than `06`, still visibly tied to Kalmykia colors and lotus/zala framing.
+- `09` is cleaner than the nine-pose sheet because it uses only three large poses; nose and eye artifacts are reduced enough to use as a mascot direction reference.
 
 ## Cultural Correction
 
