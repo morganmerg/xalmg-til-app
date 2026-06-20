@@ -1,0 +1,9 @@
+Use case: logo-brand
+Asset type: corrected mascot exploration sheet for a Kalmyk language learning mobile app
+Input images: Image #1 is the Kalmykia emblem reference for lotus petals, circular blue/yellow/red framing, and the red radiating zala/flame shape; Image #2 is the Kalmyk costume reference for red-black-gold embroidery placement and ornate trim. Use them only as cultural style references, not as content to copy exactly.
+Primary request: Generate a refined concept sheet with 6 mascot/icon variants of a young saiga antelope calf for the app Хальмг Тиль, corrected to use Kalmyk visual references instead of Kazakh-style ornaments. No text in the image.
+Subject: baby saiga antelope with distinctive rounded hanging saiga nose, large side ears, small horn buds, warm eyes. Friendly, modern, not childish.
+Style/medium: polished flat vector-style mascot and app-icon exploration, premium mobile learning app identity, clean shapes, crisp edges, scalable icon silhouettes.
+Composition/framing: square canvas, 2 rows of 3 separated variants: circular app icon head, minimal head mark, calm guide bust, profile badge, small full-body companion, success/listening avatar.
+Kalmyk visual language: use the blue-yellow-red palette from the Kalmykia emblem; use lotus petal shapes and circular framing inspired by Image #1; use restrained red-black-gold embroidery accents inspired by Image #2 on a small scarf or collar only; use thin gold trim and red tassel accent sparingly.
+Constraints: no text, no labels, no watermark, no owl, no Kazakh ornaments, no generic Turkic swirls, no blue-gold Kazakh loop patterns, no yurt patterns, no copying the full emblem, no human costume, no hats, no religious symbols. The saiga nose must stay readable in every variant.

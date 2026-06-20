@@ -1,0 +1,10 @@
+Use case: logo-brand
+Asset type: corrected mascot emotion and UI sticker set for a Kalmyk language learning mobile app
+Input images: Image #1 is the Kalmykia emblem reference for lotus petal rows, red radiating zala/flame form, and blue-yellow-red palette; Image #2 is the Kalmyk costume reference for red/black garment fields, gold embroidery, sleeve/collar trim, and tassel accents. Use these as style references only.
+Primary request: Generate a cohesive set of 9 small mascot reactions for a young saiga antelope calf in a language learning app, using Kalmyk visual motifs accurately and avoiding Kazakh ornaments. No text in the image.
+Subject: one consistent baby saiga antelope mascot repeated across 9 poses: welcome, listening, correct answer, try again, thinking, saved word, daily streak, shy encouragement, celebration. Distinctive hanging saiga nose, large ears, small horn buds, warm eyes.
+Style/medium: clean flat-to-soft vector mobile app stickers, polished but simple, not 3D, not photorealistic, production-ready UI reactions.
+Kalmyk visual language: tiny scarf/collar accents inspired by Kalmyk costume embroidery from Image #2: red and black panels with thin gold floral/vine embroidery, small gold trim, a restrained red tassel. Use occasional simple lotus-petal shapes inspired by Image #1 as background accents, not as a full emblem.
+Color palette: sandy saiga fur, deep blue, yellow/gold, red, black, white/off-white.
+Composition/framing: square canvas, 3x3 grid, each mascot separated on a clean warm off-white background with generous padding.
+Constraints: no text, no labels, no watermark, no owl, no Kazakh ornaments, no generic Turkic blue-gold loops, no yurt or carpet patterns, no full human costume, no hats, no copying the emblem exactly, no religious symbols. Keep the mascot identity consistent and the saiga nose readable in each pose.
