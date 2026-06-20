@@ -1,0 +1,9 @@
+Use case: logo-brand
+Asset type: mascot emotion set for a Kalmyk language learning mobile app
+Primary request: Generate a clean mascot emotion sheet for a baby saiga antelope companion used inside language lessons. No text in the image.
+Subject: one consistent young saiga antelope mascot repeated across 9 small expressions/poses: welcome, listening, correct answer, try again, thinking, saved word, daily streak, shy encouragement, celebration. Distinctive rounded hanging saiga nose, large ears, tiny horn buds, warm eyes.
+Style/medium: cohesive flat vector mobile app illustration, same character model across every pose, simple shapes, minimal shading, crisp edges, production-ready sticker/emote set.
+Composition/framing: square canvas, 3x3 grid of separated mascot stickers on a clean off-white background, generous padding, no labels.
+Color palette: sandy beige fur, deep blue scarf/accent, golden yellow highlights, white, tiny red accent. Subtle Kalmyk-inspired geometric ornament only as a tiny scarf pattern.
+Mood: supportive, not annoying, not childish, quietly funny, good for adult beginners.
+Constraints: no text, no labels, no watermark, no owl, no religious symbols, no folk costume, no busy background, no photorealism, no 3D. Keep the same mascot identity across all 9 poses and make the saiga nose readable in each.

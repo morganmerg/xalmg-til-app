@@ -1,0 +1,9 @@
+Use case: logo-brand
+Asset type: mascot exploration sheet for a Kalmyk language learning mobile app
+Primary request: Create a second concept sheet with 6 distinct young saiga antelope mascot variants. Make the animal clearly recognizable as a saiga, not a deer, goat, horse, or cow.
+Subject: baby saiga antelope with the distinctive rounded hanging saiga nose, wide-set eyes, large side ears, slim steppe-antelope body, small horn buds only where appropriate. Cute but biologically recognizable.
+Style/medium: modern flat vector mascot design for a premium mobile learning app, clean shapes, controlled linework, slight editorial character, not Disney, not chibi, not 3D.
+Composition/framing: one square canvas, 2 rows of 3 separated full-body variants. Include six directions: minimal app-icon silhouette, calm guide with scarf, curious beginner, energetic walking companion, seated listening pose, badge/avatar head-only variant.
+Color palette: sandy beige fur, deep Kalmykia blue, golden yellow, white, tiny red accent. Use subtle geometric ornament only on scarf or small accessory.
+Mood: warm, calm, slightly witty, non-threatening for adult beginners.
+Constraints: no text, no labels, no logos, no watermark, no owl, no religious symbols, no human clothing costume, no busy background, no photorealism. The saiga nose must be visible and distinctive in every variant.

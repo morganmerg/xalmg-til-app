@@ -1,0 +1,9 @@
+Use case: logo-brand
+Asset type: app icon and mascot brand exploration for a Kalmyk language learning mobile app
+Primary request: Generate a concept sheet with 8 compact mascot/icon variants of a young saiga antelope for a premium language learning app. No text in the image.
+Subject: stylized baby saiga antelope head and half-body marks, unmistakable saiga nose, large ears, small horn buds, friendly eyes.
+Style/medium: flat geometric vector logo-mascot design, clean brand identity exploration, simple shapes, minimal shading, scalable to app icon, more sophisticated than children's cartoon.
+Composition/framing: square canvas with 8 separated icon-like variants in a neat grid. Include circular avatar, full-face head, side-profile head, simplified standing mascot, abstract saiga head mark, tiny companion badge, lesson success expression, listening/audio expression.
+Color palette: deep blue, golden yellow, sandy beige, white, restrained red accent. Use background circles or simple icon containers on some variants.
+Mood: calm, modern, confident, locally rooted, suitable for adults and students.
+Constraints: no text, no labels, no watermark, no owl, no religious symbols, no folk costume, no complex background, no 3D, no realistic fur detail, no excessive cuteness. Prioritize clear silhouette and distinctive saiga nose.

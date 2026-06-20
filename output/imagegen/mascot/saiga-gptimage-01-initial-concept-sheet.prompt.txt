@@ -1,0 +1,8 @@
+Use case: logo-brand
+Asset type: mascot exploration sheet for a Kalmyk language learning mobile app
+Primary request: Create a clean concept sheet with 6 distinct mascot variants of a young saiga antelope calf for an app called Хальмг Тиль. The mascot should feel like a friendly local steppe companion for beginners learning a language, not a teacher or exam character.
+Subject: a cute but tasteful saiga antelope calf with recognizable saiga nose, small horns or horn buds, expressive ears, warm eyes.
+Style/medium: polished flat vector-style character design, mobile app mascot, simple shapes, premium educational app feel, not childish clipart, not 3D.
+Composition/framing: one square canvas, 2 rows of 3 full-body mascot variants, each with a different personality: calm guide, playful learner, confident helper, shy beginner, energetic walking companion, minimal icon-like version. Keep each variant separated with generous whitespace.
+Color palette: Kalmykia-inspired blue, golden yellow, white, small red accent, natural sandy beige fur. Add subtle ornamental scarf, ribbon, or chest detail on some variants, but keep it restrained.
+Constraints: no text, no labels, no logos, no watermark, no owl, no religious symbols, no stereotypical costume, no busy background. Make silhouettes readable at small app-icon size.
