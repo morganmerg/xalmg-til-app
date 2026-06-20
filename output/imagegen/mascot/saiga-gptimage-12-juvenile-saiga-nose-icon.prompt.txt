@@ -1,0 +1,10 @@
+﻿Use case: stylized-concept
+Asset type: final-direction mobile app mascot icon candidate
+Input images: Use the user's real saiga photo ONLY as anatomy reference for the nose and head profile. Do NOT copy the adult horns from the photo. Use previous Kalmykia-inspired icon direction only for palette and app polish.
+Primary request: Create one cute young saiga calf app icon candidate with a more accurate saiga nose and clearly juvenile head.
+Subject: young saiga calf mascot, not adult. Small horn buds only, not tall adult horns. Large side ears. Warm balanced eyes, less deer-like, no heavy eyelashes. The nose is the key feature: broad raised nasal bridge, softly inflated downward muzzle, wider blunt rounded tip, low oval nostrils visible near the bottom/front, short subtle mouth line underneath.
+Style/medium: polished educational app illustration, friendly but anatomically grounded, clean raster icon art.
+Composition/framing: centered 3/4 bust portrait, strong readable silhouette, circular Kalmykia-inspired blue/yellow/red frame, simplified lotus base, no text.
+Cultural detail: restrained Kalmyk-inspired red-black-gold collar with thin embroidery and small tassel; no full costume, no hat.
+Constraints: juvenile calf proportions; compact wide saiga nose, not a long vertical cylinder; nostrils must be visible and low; eyes symmetrical; horn buds small and aligned; app icon clarity at small size.
+Avoid: adult tall horns, elephant trunk, tapir snout, goat/deer narrow muzzle, dog nose, human-like smile, crossed or shifted eyes, Kazakh ornament loops, generic yurt/carpet motifs, exact official emblem copy, text, watermark.

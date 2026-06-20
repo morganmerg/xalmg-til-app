@@ -1,0 +1,10 @@
+﻿Use case: stylized-concept
+Asset type: refined mobile app mascot icon for a Kalmyk language learning app
+Input images: Use the user's saiga photo as the main anatomy reference for the nose shape. Use the prior icon direction only for friendly app illustration style, Kalmykia blue/yellow/red palette, circular emblem, lotus/zala framing, and red-black-gold Kalmyk-inspired collar.
+Primary request: Generate one polished app icon candidate with a cute young saiga calf whose nose is recognizably saiga.
+Subject: centered bust portrait of a young saiga calf mascot, friendly but anatomically believable. The nose must have a broad convex bridge, softly swollen downward muzzle, low oval nostrils at the rounded tip, and a short subtle mouth line. Large side ears, small juvenile horns, symmetrical warm eyes.
+Style/medium: clean high-quality educational app icon illustration, polished raster art, simplified enough to work at small icon sizes.
+Composition/framing: centered 3/4 bust inside a circular Kalmykia-inspired blue/yellow/red emblem with simplified lotus base. No text. Strong silhouette at small size.
+Cultural detail: red-black-gold Kalmyk-inspired collar with restrained thin embroidery and tassel; lotus/zala motif from Kalmykia visual language, not exact official emblem copy.
+Constraints: make the nose visibly saiga, not generic deer/goat; keep it compact, rounded, and integrated into the face; no long drooping tube; no elephant trunk. Eyes must be balanced and not crossed.
+Avoid: elephant trunk, tapir face, goat/deer narrow muzzle, human-like smile, misplaced eyes, broken horns, extra features, Kazakh ornament loops, generic Turkic carpet/yurt motifs, text, watermark.

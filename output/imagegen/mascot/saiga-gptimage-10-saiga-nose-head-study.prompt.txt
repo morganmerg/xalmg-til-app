@@ -1,0 +1,10 @@
+﻿Use case: stylized-concept
+Asset type: mascot anatomy correction study for a mobile language learning app
+Input images: The user's saiga photo is the PRIMARY anatomy reference for the nose and head silhouette. Previous mascot direction: cute educational saiga calf with Kalmykia blue/yellow/red palette and a red-black-gold Kalmyk-inspired collar.
+Primary request: Create a clean character head study of a cute young saiga calf mascot whose nose actually reads as saiga, not goat, deer, tapir, or elephant.
+Subject: young saiga calf mascot, friendly and app-ready, with authentic saiga nose anatomy: broad convex nasal bridge, soft rounded downward-inflated muzzle, low oval nostrils near the tip, short mouth line under the nose, large side ears, small juvenile horns, warm expressive eyes.
+Style/medium: polished educational mobile app illustration, warm painterly but clean, suitable for mascot refinement.
+Composition/framing: three large head angles only on one light background: front 3/4, side profile, and slight front view. Keep them large and clear, not a grid of tiny stickers.
+Cultural detail: simple red-black-gold Kalmyk-inspired collar only; very restrained lotus/zala accent; no full costume.
+Constraints: prioritize nose silhouette accuracy over cuteness; keep the nose compact and saiga-like, not a long hanging tube; eyes symmetrical and correctly placed; horns aligned.
+Avoid: elephant trunk, tapir snout, goat/deer narrow muzzle, dog nose, misplaced eyes, crossed eyes, extra horns, extra limbs, Kazakh ornament loops, generic yurt/carpet motifs, text, watermark.
