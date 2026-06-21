@@ -15,6 +15,7 @@ Saved outputs:
 
 - `output/imagegen/icons/kalmyk-cultural-icon-sheet-01.png`
 - `output/imagegen/icons/kalmyk-cultural-icon-sheet-02.png`
+- `output/imagegen/icons/crops/*.png`
 
 Use `kalmyk-cultural-icon-sheet-02.png` as the preferred reference. It removes the meander-style border from v1 and stays closer to the Kalmykia emblem/costume references:
 
@@ -26,11 +27,23 @@ Use `kalmyk-cultural-icon-sheet-02.png` as the preferred reference. It removes t
 - black-red-gold costume collar badge;
 - dictionary/book/audio/path/reward/streak support icons.
 
+## Figma Placement
+
+Installed a first raster test pass into the Style C editable board:
+
+- Figma board: `Style C editable v1 - mascot-first direction`, node `48:2`
+- home screen: path nodes and review word icons;
+- lesson screen: audio prompt and word speaker icons;
+- dictionary screen: word-category icons and drawer icon;
+- bottom navigation: simple vector glyphs were added over the existing icon backgrounds so nav no longer reads as empty squares.
+
+The low-contrast lotus crop was replaced in small slots with the more readable zala flower symbol. Keep the lotus for larger emblem-style compositions unless it is redrawn with heavier outlines.
+
 ## Reject / Watch
 
 - Do not use v1 top-right arc icon as-is: it contains a meander-like border and risks reading as the wrong cultural ornament.
 - Do not use generic "Central Asian" ornaments unless they are verified against Kalmyk references.
-- Do not put generated raster icons directly into small UI controls until they are simplified. Use them as a reference layer first.
+- Do not treat the generated raster icons as final production assets in tiny UI controls. This Figma pass is a readability test; production should use simplified SVG/Figma components.
 
 ## Implementation Notes
 
