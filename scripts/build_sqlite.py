@@ -5,6 +5,7 @@ Tables:
   entries(id, lemma, lemma_lc, phonetic, pos)
   senses(id, entry_id, num, def, examples_json)
   aliases(alias, entry_id)  -- lookup by alternate form
+  entry_tags(entry_id, tag) -- generated dictionary classification layer
   audio(lemma_lc, file)     -- populated from audio_manifest.json
 
 FTS5 virtual table for full-text search over lemma + def.
@@ -20,19 +21,34 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "assets" / "data"
 DB_OUT = ROOT / "assets" / "db" / "dictionary.db"
 
-DB_OUT.parent.mkdir(parents=True, exist_ok=True)
-if DB_OUT.exists():
-    DB_OUT.unlink()
-
 
 def lc(s: str) -> str:
     return s.lower().strip() if s else ""
 
 
+def load_tag_map(path: Path) -> dict[str, list[str]]:
+    if not path.exists():
+        return {}
+    records = json.loads(path.read_text(encoding="utf-8"))
+    tag_map: dict[str, list[str]] = {}
+    for record in records:
+        source_id = record.get("source_id")
+        tags = record.get("tags") or []
+        if source_id and isinstance(tags, list):
+            tag_map[source_id] = [str(tag) for tag in tags]
+    return tag_map
+
+
 def main() -> int:
+    DB_OUT.parent.mkdir(parents=True, exist_ok=True)
+    if DB_OUT.exists():
+        DB_OUT.unlink()
+
     dict_path = DATA / "dictionary.compact.json"
     audio_path = DATA / "audio_manifest.json"
+    tags_path = DATA / "dictionary.tags.json"
     entries = json.loads(dict_path.read_text(encoding="utf-8"))
+    tag_map = load_tag_map(tags_path)
 
     audio_map: dict[str, str] = {}
     if audio_path.exists():
@@ -74,6 +90,13 @@ def main() -> int:
         );
         CREATE INDEX idx_aliases_alias ON aliases(alias);
 
+        CREATE TABLE entry_tags (
+            entry_id INTEGER NOT NULL,
+            tag TEXT NOT NULL,
+            PRIMARY KEY (entry_id, tag)
+        );
+        CREATE INDEX idx_entry_tags_tag ON entry_tags(tag);
+
         CREATE TABLE audio (
             lemma_lc TEXT PRIMARY KEY,
             file TEXT NOT NULL
@@ -87,6 +110,7 @@ def main() -> int:
     )
 
     eid = 0
+    tag_rows = 0
     for e in entries:
         eid += 1
         c.execute(
@@ -105,6 +129,10 @@ def main() -> int:
         # aliases
         for al in e.get("aliases") or []:
             c.execute("INSERT INTO aliases(alias, entry_id) VALUES (?,?)", (lc(al), eid))
+        # generated classification tags
+        for tag in tag_map.get(e.get("id"), []):
+            c.execute("INSERT OR IGNORE INTO entry_tags(entry_id, tag) VALUES (?,?)", (eid, tag))
+            tag_rows += 1
         # fts
         c.execute(
             "INSERT INTO entries_fts(rowid, lemma, def) VALUES (?,?,?)",
@@ -122,6 +150,7 @@ def main() -> int:
     size = DB_OUT.stat().st_size
     print(f"built {DB_OUT} ({size:,} bytes, {size/1024/1024:.1f} MB)")
     print(f"entries: {eid}")
+    print(f"entry tags: {tag_rows}")
     print(f"audio rows: {len(audio_map)}")
     return 0
 

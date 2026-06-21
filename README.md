@@ -2,14 +2,16 @@
 
 Offline mobile app for learning Kalmyk (калмыцкий язык), built on Expo + React
 Native. Companion to the grant-funded web app of the same name. Ships with the
-full Kalmyk-Russian dictionary (22,846 entries) and 5 starter lessons.
+full Kalmyk-Russian dictionary (22,846 source entries; 23,216 after Wiktionary
+merge) and 5 starter lessons.
 
 ## What's here
 
 | Part                  | Status | Notes                                          |
 |-----------------------|--------|------------------------------------------------|
-| Dictionary parsing    | ✅     | `scripts/parse_dsl.py` → 22,846 entries JSON   |
-| SQLite + FTS5 build   | ✅     | `scripts/build_sqlite.py` → 7.4 MB bundled .db |
+| Dictionary parsing    | ✅     | `scripts/parse_dsl.py` → 22,846 source entries |
+| Dictionary tagging    | ✅     | `scripts/classify_dictionary.py` → entry tags  |
+| SQLite + FTS5 build   | ✅     | `scripts/build_sqlite.py` → 11.8 MB bundled DB |
 | Design system         | ✅     | Tokens, Ornament, GlassPill, BilingualText     |
 | Home screen           | ✅     | Word of day + lesson tiles + streak            |
 | Dictionary screen     | ✅     | Debounced search (Kalmyk prefix + Russian FTS) |
@@ -54,7 +56,13 @@ PYTHONIOENCODING=utf-8 python scripts/parse_dsl.py
 # 3. (optional) decode audio filenames
 PYTHONIOENCODING=utf-8 python scripts/decode_audio.py
 
-# 4. build SQLite
+# 4. merge Russian Wiktionary Kalmyk entries, if the local source is present
+PYTHONIOENCODING=utf-8 python scripts/merge_ruwikt.py
+
+# 5. classify entries for beginner/cultural/grammar filtering
+PYTHONIOENCODING=utf-8 python scripts/classify_dictionary.py
+
+# 6. build SQLite with FTS and entry_tags
 PYTHONIOENCODING=utf-8 python scripts/build_sqlite.py
 ```
 
@@ -67,7 +75,7 @@ src/
 ├── navigation/    root stack + tabs
 └── screens/       Home, Dictionary, EntryDetail, Lesson, Profile
 assets/
-├── data/          source JSON (dictionary.json, audio_manifest.json)
+├── data/          source JSON, tag JSON, audio manifest
 └── db/            built SQLite bundled into the app
 scripts/          data pipeline (Python)
 docs/superpowers/ design specs
@@ -91,8 +99,8 @@ docs/superpowers/ design specs
 ## Next steps
 
 1. Run on a real device; confirm Cyrillic + Kalmyk-specific letters render.
-2. Expand lesson catalogue past the initial 5 sets (generate from dictionary
-   categories by thematic tags in `senses.def`).
+2. Expand lesson catalogue past the initial 5 sets using `entry_tags` plus a
+   human-reviewed thematic layer.
 3. Stand up the TTS / pronunciation-scoring backend and wire `expo-audio`.
 4. Fix audio filename decoding by comparing byte-level positions against the
    DSL file's lemma order.
