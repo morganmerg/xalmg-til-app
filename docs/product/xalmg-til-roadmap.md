@@ -111,24 +111,28 @@ Existing important tags:
 
 Rule: generated tags are a rough filter, not final truth.
 
-### Layer 3: Human-Reviewed Learning Core
+### Layer 3: Learning Core Candidates
 
-Needed next:
+Current output:
 
 - `assets/data/learning_core.json`
+- `docs/data/2026-06-21-learning-core-report.md`
 
-This should contain the first 300-500 approved words and phrases:
+This contains the first 300 human-reviewable words and phrases:
 
 - id;
 - lemma;
 - Russian meaning;
 - category;
 - difficulty;
-- example entry id;
+- source entry id;
+- example when available;
 - audio status;
 - lesson eligibility.
 
-This is the real source for beginner lessons.
+Rule: this layer is a candidate pool, not approved lesson content. Items become
+real lesson content only after human review changes `review_status` and
+`lesson_eligible`.
 
 ### Layer 4: Audio Backlog
 
@@ -288,7 +292,7 @@ Active now.
 
 - Keep this roadmap updated.
 - Validate dictionary classification with samples.
-- Create first `learning_core.json`.
+- Review first `learning_core.json`.
 - Create `audio_backlog.json`.
 - Define lesson data schema.
 
@@ -353,12 +357,12 @@ Ideas parked for later:
 
 ## Next Concrete Step
 
-Create the first `learning_core.json` candidate list:
+Review the first `learning_core.json` candidate list:
 
-- 300-500 items maximum;
-- selected from `beginner_candidate`;
-- grouped by beginner themes;
-- excluding obvious grammar forms, rare terms, and confusing entries;
-- with a review report showing what was included and why.
+- reject noisy entries;
+- approve a smaller first-course subset;
+- decide which categories become Unit 1-5 lessons;
+- preserve notes for missing examples and pronunciation review;
+- then create `audio_backlog.json` from approved items.
 
-This becomes the base for the first real course.
+This reviewed subset becomes the base for the first real course.

@@ -1,0 +1,6648 @@
+[
+  {
+    "id": "lc_0001",
+    "source_id": "018213_ханлт",
+    "lemma": "ханлт",
+    "translation": "благодарность",
+    "category": "greetings_politeness",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "ханлт өргх",
+      "rus": "выразить благодарность"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0002",
+    "source_id": "011284_һавһ",
+    "lemma": "һавһ",
+    "translation": "обряд благопожелания",
+    "category": "greetings_politeness",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "һавһ тәвх",
+      "rus": "совершать обряд благопожелания"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0003",
+    "source_id": "007366_йөрәх",
+    "lemma": "йөрәх",
+    "translation": "приветствовать, поздравлять",
+    "category": "greetings_politeness",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "һаран өргҗ йөрәх",
+      "rus": "приветствовать поднятием руки"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0004",
+    "source_id": "007364_йөрәлх",
+    "lemma": "йөрәлх",
+    "translation": "произносить благопожелания",
+    "category": "greetings_politeness",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0005",
+    "source_id": "009884_меләх",
+    "lemma": "меләх",
+    "translation": "приветствовать, поздравлять",
+    "category": "greetings_politeness",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0006",
+    "source_id": "011287_һавһдх",
+    "lemma": "һавһдх",
+    "translation": "высказывать благопожелания",
+    "category": "greetings_politeness",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0007",
+    "source_id": "007365_йөрәлч",
+    "lemma": "йөрәлч",
+    "translation": "человек, произносящий благопожелания",
+    "category": "greetings_politeness",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0008",
+    "source_id": "003537_гекх",
+    "lemma": "гекх",
+    "translation": "слегка наклониться, кивнуть (в знак приветствия, согласия)",
+    "category": "greetings_politeness",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0009",
+    "source_id": "007359_йөрәл",
+    "lemma": "йөрәл",
+    "translation": "благопожелание",
+    "category": "greetings_politeness",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хурмин йөрәл",
+      "rus": "благопожелание на свадьбе"
+    },
+    "notes": [
+      "has_cultural_markers",
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0010",
+    "source_id": "018211_ханҗанав",
+    "lemma": "ханҗанав",
+    "translation": "спасибо",
+    "category": "greetings_politeness",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example",
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate"
+    ]
+  },
+  {
+    "id": "lc_0011",
+    "source_id": "012839_өршәл",
+    "lemma": "өршәл",
+    "translation": "помилование, прощение, пощада",
+    "category": "greetings_politeness",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example",
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate"
+    ]
+  },
+  {
+    "id": "lc_0012",
+    "source_id": "009182_күүкчлх",
+    "lemma": "күүкчлх",
+    "translation": "удочерять",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "бичкн күүк күүкчлҗ авх",
+      "rus": "удочерить девочку"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0013",
+    "source_id": "008605_көвүчлх",
+    "lemma": "көвүчлх",
+    "translation": "усыновлять",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "бичкн көвү көвүчлҗ авх",
+      "rus": "усыновить мальчика"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0014",
+    "source_id": "022613_эцк",
+    "lemma": "эцк",
+    "translation": "отец",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "эк, эцк",
+      "rus": "отец и мать"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0015",
+    "source_id": "003663_герткс",
+    "lemma": "герткс",
+    "translation": "домашние, домочадцы (семья)",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мини герткс",
+      "rus": "мои домашние"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0016",
+    "source_id": "002789_бөл",
+    "lemma": "бөл",
+    "translation": "двоюродные братья (сыновья двух сестёр)",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "бөл күүкд",
+      "rus": "двоюродные сёстры (дочери двух сестёр)"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0017",
+    "source_id": "001929_баһчуд",
+    "lemma": "баһчуд",
+    "translation": "молодёжь, молодые люди",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "советин баһчуд",
+      "rus": "советская молодёжь"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0018",
+    "source_id": "000263_аав",
+    "lemma": "аав",
+    "translation": "отец, папа",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "аав үкхлә",
+      "rus": "ааһ герәсн, акт үкхлә — арсн герәсн — когда отец умирает, на память остаётся его чашка, когда конь гибнет, на память остаётся его шкура <посл.>"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0019",
+    "source_id": "022229_элгн",
+    "lemma": "элгн",
+    "translation": "родственник",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хол элгн",
+      "rus": "дальний родственник"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0020",
+    "source_id": "022641_ээҗ",
+    "lemma": "ээҗ",
+    "translation": "мать, мама",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "ээҗин ачиг кезә чигн хәрүлҗ болшго",
+      "rus": "заботу матери никогда ничем не отплатить <погов.>"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb",
+      "riddle"
+    ]
+  },
+  {
+    "id": "lc_0021",
+    "source_id": "017914_хадм",
+    "lemma": "хадм",
+    "translation": "родня по мужу (по жене)",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хадм эцк",
+      "rus": "а) свёкор б) тесть"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0022",
+    "source_id": "022061_эгч",
+    "lemma": "эгч",
+    "translation": "старшая сестра",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хадм эгч",
+      "rus": "старшая сестра мужа"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "has_pos",
+      "riddle"
+    ]
+  },
+  {
+    "id": "lc_0023",
+    "source_id": "022343_эмгн",
+    "lemma": "эмгн",
+    "translation": "старуха, бабушка",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "эмгн өвгн хойр",
+      "rus": "старик со старухой"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb",
+      "riddle"
+    ]
+  },
+  {
+    "id": "lc_0024",
+    "source_id": "008638_көгшд",
+    "lemma": "көгшд",
+    "translation": "старцы, старые (пожилые) люди",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "көгшд бичә шоод, күүкд бичә шогл",
+      "rus": "старых людей не ругай, над детьми не насмехайся <погов.>"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0025",
+    "source_id": "013356_садн",
+    "lemma": "садн",
+    "translation": "родство, родня, родственники",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "цусни садн",
+      "rus": "кровное родство"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0026",
+    "source_id": "016017_төркн",
+    "lemma": "төркн",
+    "translation": "родители, родня (замужней женщины)",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "төркән һолсн күүкн му, төрлән һолсн көвүн му",
+      "rus": "плоха та замужняя женщина, которая считает плохими своих родственников, плох тот юноша, который пренебрегает своей роднёй <посл.>"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0027",
+    "source_id": "001109_арвт",
+    "lemma": "арвт",
+    "translation": "мальчик",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0028",
+    "source_id": "009181_күүктә",
+    "lemma": "күүктә",
+    "translation": "имеющий девочку",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0029",
+    "source_id": "013470_самһн",
+    "lemma": "самһн",
+    "translation": "старая женщина, старуха",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0030",
+    "source_id": "022231_элгсг",
+    "lemma": "элгсг",
+    "translation": "родственные чувства",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0031",
+    "source_id": "011830_һучнцр",
+    "lemma": "һучнцр",
+    "translation": "сын праправнука",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0032",
+    "source_id": "002003_баруч",
+    "lemma": "баруч",
+    "translation": "человек, работающий правой рукой",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0033",
+    "source_id": "008602_көвүчлсн",
+    "lemma": "көвүчлсн",
+    "translation": "усыновлённый",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0034",
+    "source_id": "008637_көгшәнр",
+    "lemma": "көгшәнр",
+    "translation": "старцы, старые (пожилые) люди",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0035",
+    "source_id": "022232_элгсх",
+    "lemma": "элгсх",
+    "translation": "питать родственные чувства",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0036",
+    "source_id": "012344_өвгншг",
+    "lemma": "өвгншг",
+    "translation": "как старик, подобно старику",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0037",
+    "source_id": "007196_инәмтхә",
+    "lemma": "инәмтхә",
+    "translation": "смешливый человек, хохотун, весельчак",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0038",
+    "source_id": "016019_төрксх",
+    "lemma": "төрксх",
+    "translation": "скучать о родственниках (о замужней женщине)",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0039",
+    "source_id": "018684_хомнач",
+    "lemma": "хомнач",
+    "translation": "человек, умеющий вьючить (напр. верблюда)",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0040",
+    "source_id": "008600_көвүрхх",
+    "lemma": "көвүрхх",
+    "translation": "быть довольным тем, что есть сын, хвастаться своим сыном",
+    "category": "family_people",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0041",
+    "source_id": "003620_геометрическ",
+    "lemma": "геометрическ",
+    "translation": "дом, здание, изба, юрта",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "ишкә гер",
+      "rus": "войлочная юрта"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_aliases",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0042",
+    "source_id": "003661_гертә",
+    "lemma": "гертә",
+    "translation": "имеющий дом, семейный",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "гертә-малта",
+      "rus": "имеющий дом и хозяйство"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0043",
+    "source_id": "009601_манахн",
+    "lemma": "манахн",
+    "translation": "наши, наш дом",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "манахн эндәс хол биш",
+      "rus": "наши отсюда недалеко"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0044",
+    "source_id": "010992_нохачлх",
+    "lemma": "нохачлх",
+    "translation": "сидеть как собака",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "нохачлҗ суух",
+      "rus": "сидеть по-собачьи"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0045",
+    "source_id": "016143_тулһлх",
+    "lemma": "тулһлх",
+    "translation": "сидеть вокруг тагана",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хәәс тулһ деер нерх",
+      "rus": "ставить котёл на треножник"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0046",
+    "source_id": "016743_унтх",
+    "lemma": "унтх",
+    "translation": "спать, засыпать",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "унтдг хора",
+      "rus": "спальня"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0047",
+    "source_id": "021815_шурҗңнх",
+    "lemma": "шурҗңнх",
+    "translation": "идти, не задерживаясь",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "торһн эд шурҗңндг",
+      "rus": "шёлковая ткань шелестит"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0048",
+    "source_id": "011583_һозах",
+    "lemma": "һозах",
+    "translation": "стоять прямо, торчать",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "һозаҗ зогсх",
+      "rus": "стоять торчком"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0049",
+    "source_id": "012541_өмәрлх",
+    "lemma": "өмәрлх",
+    "translation": "ехать (идти) вперёд",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "өмәрән йовх",
+      "rus": "идти вперед"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0050",
+    "source_id": "003245_бүрәдх",
+    "lemma": "бүрәдх",
+    "translation": "трубить, горнить, играть на рожке",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "бүрәдж татх",
+      "rus": "трубить в трубу"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0051",
+    "source_id": "003745_гиичлх",
+    "lemma": "гиичлх",
+    "translation": "ходить (ездить) в гости, гостить",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "гиичлән одх",
+      "rus": "отправляться в гости"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0052",
+    "source_id": "004515_дасхх",
+    "lemma": "дасхх",
+    "translation": "учить, наставлять, преподавать",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "ном дасхх",
+      "rus": "преподавать"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0053",
+    "source_id": "004032_дәәлх",
+    "lemma": "дәәлх",
+    "translation": "завоёвывать, идти войной, нападать",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "дәәләд авх",
+      "rus": "завоёвывать"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0054",
+    "source_id": "011130_нутглх",
+    "lemma": "нутглх",
+    "translation": "обитать, жить в какой-л. местности",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "бидн энд зунднь нутглдвдн",
+      "rus": "летом мы живём здесь"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0055",
+    "source_id": "014761_талвах",
+    "lemma": "талвах",
+    "translation": "успокаиваться, приходить в себя",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "тег талваһад бәәнэ",
+      "rus": "степь раскинулась"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0056",
+    "source_id": "015252_темтрх",
+    "lemma": "темтрх",
+    "translation": "идти ощупью, брести на ощупь",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "әрә гиҗ темтрәд йовх",
+      "rus": "идти на ощупь"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0057",
+    "source_id": "016884_усәрх",
+    "lemma": "усәрх",
+    "translation": "идти (о затяжном мелком дожде)",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хур үсәрәд орад бәәнә",
+      "rus": "идёт затяжной мелкий дождь"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0058",
+    "source_id": "019490_хүүхлзх",
+    "lemma": "хүүхлзх",
+    "translation": "ёрзать, егозить, сидеть неспокойно",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "стул деер үүмәд хүүхлзх",
+      "rus": "ёрзать на стуле от волнения"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0059",
+    "source_id": "005875_җирих",
+    "lemma": "җирих",
+    "translation": "стоять в ряд (о людях, предметах)",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "телеграфин бахнс җирилдәд үзгдв",
+      "rus": "телеграфные столбы стояли длинными рядами"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0060",
+    "source_id": "017481_үүц",
+    "lemma": "үүц",
+    "translation": "запас мяса на зиму (домашний)",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "үүц белдх",
+      "rus": "заготовлять мясо на зиму"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0061",
+    "source_id": "001551_бәәршх",
+    "lemma": "бәәршх",
+    "translation": "жить оседло, располагаться, занимать место",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "нүүдгән уурад бәәршх",
+      "rus": "жить оседло, жить постоянно в одном месте"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0062",
+    "source_id": "020499_чееҗлх",
+    "lemma": "чееҗлх",
+    "translation": "заучивать, запоминать, учить наизусть",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "шүлг чееҗлх",
+      "rus": "заучивать стихотворение"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0063",
+    "source_id": "020799_чөклх",
+    "lemma": "чөклх",
+    "translation": "сидеть (на одном колене, согнув другое)",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "тер чөкләд суув",
+      "rus": "он сидел на одном колене, согнув другое"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0064",
+    "source_id": "005916_җисх",
+    "lemma": "җисх",
+    "translation": "идти, брести (о скоте в бурю, метель)",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "җисәд йовх",
+      "rus": "идти (брести) по ветру"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0065",
+    "source_id": "000021_әәлчлх",
+    "lemma": "әәлчлх",
+    "translation": "гостить, ходить в гости, быть в гостях",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "әәлчлҗ одх",
+      "rus": "отправляться в гости"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0066",
+    "source_id": "003388_бүшкүрдх",
+    "lemma": "бүшкүрдх",
+    "translation": "играть на трубе, играть на дудке (свистульке)",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хамрарн бүшкүрдх",
+      "rus": "свистеть носом"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0067",
+    "source_id": "003544_гелдрх",
+    "lemma": "гелдрх",
+    "translation": "брести, тихо идти, идти без принуждения (понукания)",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "темәнә бурнтгаснь авхла, гелдрәд бәәв",
+      "rus": "когда взялись за повод верблюда, он пошёл без понукания"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0068",
+    "source_id": "015169_теҗәмл",
+    "lemma": "теҗәмл",
+    "translation": "вскормленный, домашний (напр. о птицах, животных)",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "герин теҗәмл мал",
+      "rus": "домашние животные"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0069",
+    "source_id": "017357_үрвх",
+    "lemma": "үрвх",
+    "translation": "идти медленно, быть медлительным, делать что-л. медленно",
+    "category": "home_daily",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "поезд үрвәд станцур өөрдв",
+      "rus": "поезд медленно подошёл к станции"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0070",
+    "source_id": "006290_заһсн",
+    "lemma": "заһсн",
+    "translation": "рыба",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "заһс бәрх",
+      "rus": "ловить рыбу"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0071",
+    "source_id": "016969_уудг",
+    "lemma": "уудг",
+    "translation": "питьевой",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "уудг усн",
+      "rus": "питьевая вода"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0072",
+    "source_id": "020501_чееньг",
+    "lemma": "чееньг",
+    "translation": "чайник",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "чееньгт цә буслһх",
+      "rus": "кипятить чай в чайнике"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0073",
+    "source_id": "021709_шөлн",
+    "lemma": "шөлн",
+    "translation": "бульон, суп",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "шалдрң шөлн",
+      "rus": "жидкий суп"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0074",
+    "source_id": "009775_махсг",
+    "lemma": "махсг",
+    "translation": "любящий мясо",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "махсг күн",
+      "rus": "человек, любящий мясо"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0075",
+    "source_id": "012459_өдмг",
+    "lemma": "өдмг",
+    "translation": "хлеб (печёный)",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "өдмг болһлһн",
+      "rus": "хлебопечение"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0076",
+    "source_id": "004156_давслсн",
+    "lemma": "давслсн",
+    "translation": "солёный, содержащий соль",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "давслсн заһсн",
+      "rus": "солёная рыба"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0077",
+    "source_id": "006220_зальгх",
+    "lemma": "зальгх",
+    "translation": "глотать, проглатывать, пить залпом",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "шүлсән зальгх",
+      "rus": "проглотить слюну"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0078",
+    "source_id": "008246_кирмх",
+    "lemma": "кирмх",
+    "translation": "крошить, нарезать мелко (мясо)",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мах кирмх",
+      "rus": "крошить мясо"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0079",
+    "source_id": "018778_хорз",
+    "lemma": "хорз",
+    "translation": "хорзо (крепкая молочная водка)",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хорз шумр",
+      "rus": "спиртовка"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0080",
+    "source_id": "001124_арз",
+    "lemma": "арз",
+    "translation": "арза (крепкая молочная калмыцкая водка, дважды перегнанная)",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "арз нерх",
+      "rus": "вторично перегонять водку (чтобы получить арзу)"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0081",
+    "source_id": "002701_борц",
+    "lemma": "борц",
+    "translation": "вяленое мясо (нарезанное тонкими полосками и высушенное на солнце)",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "борц махн",
+      "rus": "вяленое, нарезанное тонкими полосками мясо"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0082",
+    "source_id": "000314_аармг",
+    "lemma": "аармг",
+    "translation": "армак (творожная накипь, образующаяся на стенках большого котла при перегонке молочной водки)",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "аармгиг бичкн күүкд иддг билә",
+      "rus": "армак обычно ели дети"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0083",
+    "source_id": "002857_будан",
+    "lemma": "будан",
+    "translation": "затируха, мучной суп",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "буда эдлх",
+      "rus": "есть мучной суп"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0084",
+    "source_id": "010193_мөлҗүр",
+    "lemma": "мөлҗүр",
+    "translation": "мясо (на костях)",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мөлҗүр махта ясн",
+      "rus": "кость с остатком мяса"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0085",
+    "source_id": "016639_уланҗа",
+    "lemma": "уланҗа",
+    "translation": "краснопёрка (рыба)",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "уланҗад утх һарһх",
+      "rus": "показывать свою силу перед слабым (беззащитным) существом (букв. на краснопёрку нож вытаскивать)"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0086",
+    "source_id": "014564_тәрән",
+    "lemma": "тәрән",
+    "translation": "хлеб, хлеба, зерно, посев",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "тәрә цокх",
+      "rus": "молотить хлеб"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0087",
+    "source_id": "021355_шикртә",
+    "lemma": "шикртә",
+    "translation": "содержащий сахар, сахаристый, сладкий",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "шикртә цә",
+      "rus": "сладкий чай, чай с сахаром"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0088",
+    "source_id": "000861_альмн",
+    "lemma": "альмн",
+    "translation": "яблоко",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "альмн темсн амтта цагтан сән, әәрг, тарг шин цагтан сән",
+      "rus": "кумыс и простокваша хороши, когда они свежие, а яблоко — в соку <посл.>"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0089",
+    "source_id": "005944_җомбасг",
+    "lemma": "җомбасг",
+    "translation": "любящий чай",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "уух уга бәәҗ җомбасг, унх уга бәәҗ җорасг",
+      "rus": "пить нечего, а любит джомбу, ехать верхом не на чем, а любит иноходца <посл.>"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0090",
+    "source_id": "006509_зовлһ",
+    "lemma": "зовлһ",
+    "translation": "постное мясо",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "зовлһд амтн уга",
+      "rus": "постное мясо безвкусно"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0091",
+    "source_id": "012123_оочлх",
+    "lemma": "оочлх",
+    "translation": "пить мелкими глотками",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "үснәс әәсн эмгн тарг оочлдг",
+      "rus": "старуха, обжёгшись на молоке, пьёт простоквашу мелкими глотками <погов.>"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0092",
+    "source_id": "019517_цәәсг",
+    "lemma": "цәәсг",
+    "translation": "любящий пить чай",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "уух уга бәәҗ цәәсг, унха уга бәәҗ җорасг",
+      "rus": "не имея ничего, любит чай, не имея ничего для верховой езды, любит иноходца <посл.>"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0093",
+    "source_id": "000042_әәрг",
+    "lemma": "әәрг",
+    "translation": "айран (квашеное молоко)",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "гүүнә әәрг",
+      "rus": "кумыс"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0094",
+    "source_id": "000535_агтрм",
+    "lemma": "агтрм",
+    "translation": "крепкий наваристый чай (калмыцкий)",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "агт унв гиҗ, аарцгла наалддг уга, агтрм уув гиҗ амнла наалддг уга",
+      "rus": "сколько ни езди верхом, скакун не пристаёт к шенкелям, сколько ни пей крепкий наваристый чай, он не пристаёт ко рту (о чрезмерной жадности кого-л.) <посл.>"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0095",
+    "source_id": "006904_ивлцн",
+    "lemma": "ивлцн",
+    "translation": "молоко (после второго подсоса телёнка)",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "ивлцәр үслсн цә өткн болдг",
+      "rus": "чай, забелённый молоком второго подсоса бывает густым"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0096",
+    "source_id": "002697_бортх",
+    "lemma": "бортх",
+    "translation": "кожаный сосуд, кожаная фляга (для молочной водки)",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "бор мөрнь тохата, бортхта әркнь һанзһлата",
+      "rus": "серая лошадь осёдлана, кожаная фляга с напитком приторочена <фольк.>"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "folklore",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0097",
+    "source_id": "006623_зөмх",
+    "lemma": "зөмх",
+    "translation": "хотеть пить",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0098",
+    "source_id": "020135_цорһ",
+    "lemma": "цорһ",
+    "translation": "перегонная труба (по к-рой стекает выкуренная молочная водка)",
+    "category": "food_drink",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "усна цорһ",
+      "rus": "водопроводная труба"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "dzhangar",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0099",
+    "source_id": "010633_нарлг",
+    "lemma": "нарлг",
+    "translation": "солнечный",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "нарлг халх",
+      "rus": "солнечная сторона"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0100",
+    "source_id": "022632_ээвртә",
+    "lemma": "ээвртә",
+    "translation": "солнечный",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "ээвртә өдр",
+      "rus": "солнечный день"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0101",
+    "source_id": "002851_буг",
+    "lemma": "буг",
+    "translation": "сорняк, сорная трава",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "буг болх",
+      "rus": "быть обузой для кого-л., быть в тягость кому-л."
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0102",
+    "source_id": "005024_долвксн",
+    "lemma": "долвксн",
+    "translation": "ветреный, непостоянный",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "долвксн хәләц",
+      "rus": "заискивающий взгляд"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0103",
+    "source_id": "007848_кеерлх",
+    "lemma": "кеерлх",
+    "translation": "удаляться в степь",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мал кеерләд һарч одв",
+      "rus": "скот удалился в глубь степи"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0104",
+    "source_id": "013453_салькта",
+    "lemma": "салькта",
+    "translation": "ветреный (о погоде)",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "генткн шүрүн салькн эклв",
+      "rus": "вдруг поднялся резкий ветер"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0105",
+    "source_id": "016766_уңһдх",
+    "lemma": "уңһдх",
+    "translation": "тлеть, разводить огонь",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "нүүрсн уңһдҗана",
+      "rus": "угли тлеют"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0106",
+    "source_id": "019540_цәкх",
+    "lemma": "цәкх",
+    "translation": "высекать огонь",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "цәкурәр һал цәкх",
+      "rus": "высекать огонь кремнём"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0107",
+    "source_id": "022631_ээврлх",
+    "lemma": "ээврлх",
+    "translation": "греться на солнце",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "ээврләд кевтх",
+      "rus": "лежать на солнце"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0108",
+    "source_id": "005777_җиинх",
+    "lemma": "җиинх",
+    "translation": "греться на солнце",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "нарна халун җиинәд бәәнә",
+      "rus": "солнце печёт"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0109",
+    "source_id": "011369_һалт",
+    "lemma": "һалт",
+    "translation": "огненный, горящий",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "һалт уул",
+      "rus": "вулкан"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0110",
+    "source_id": "005321_дулвң",
+    "lemma": "дулвң",
+    "translation": "сияющий, блестящий (о солнце)",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "дулвң шар нарни өңгтә",
+      "rus": "имеющий вид сияющего желтого солнца"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0111",
+    "source_id": "007136_илм",
+    "lemma": "илм",
+    "translation": "тутовое дерево, тутовник, шелковица",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "илм өтн",
+      "rus": "тутовый шелкопряд, шелковичный червь"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0112",
+    "source_id": "008667_көдрг",
+    "lemma": "көдрг",
+    "translation": "накидка (от дождя), плащ",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хурин көдрг",
+      "rus": "дождевик"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0113",
+    "source_id": "019774_цасрхг",
+    "lemma": "цасрхг",
+    "translation": "снежный, обильный снегом",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "цасрхг үвл",
+      "rus": "снежная зима"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0114",
+    "source_id": "019775_цаст",
+    "lemma": "цаст",
+    "translation": "снежный, покрытый снегом",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мөңк цаст уул",
+      "rus": "гора, покрытая вечными снегами"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0115",
+    "source_id": "021196_шатам",
+    "lemma": "шатам",
+    "translation": "палящий (напр. о солнце)",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "шатам хурц нарн",
+      "rus": "палящее солнце"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0116",
+    "source_id": "012395_өвсрхг",
+    "lemma": "өвсрхг",
+    "translation": "обильный травой, травянистый",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "өвсрхг һазр",
+      "rus": "место, где обильно растёт трава"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0117",
+    "source_id": "016353_түлх",
+    "lemma": "түлх",
+    "translation": "растапливать, топить (печь), разводить (огонь)",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "һулмтд һал түлх",
+      "rus": "разводить огонь в очаге"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0118",
+    "source_id": "012795_өрдх",
+    "lemma": "өрдх",
+    "translation": "разводить, разжигать (большой огонь)",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "һал өрдх",
+      "rus": "разжечь огонь"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0119",
+    "source_id": "009612_мандах",
+    "lemma": "мандах",
+    "translation": "восходить, всходить, подниматься (о небесных светилах)",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "нарн мандлҗана",
+      "rus": "взошло солнце"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0120",
+    "source_id": "010640_нарни",
+    "lemma": "нарни",
+    "translation": "солнечный",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "нарни час",
+      "rus": "солнечные часы"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0121",
+    "source_id": "002665_бората",
+    "lemma": "бората",
+    "translation": "ненастный, дождливый",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "бората үвл",
+      "rus": "ненастная (снежная) зима"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0122",
+    "source_id": "004742_делкә",
+    "lemma": "делкә",
+    "translation": "мир, земной шар, свет",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "делкә деер",
+      "rus": "во всём мире, на всем свете, на всей земле"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0123",
+    "source_id": "016036_төрхәрә",
+    "lemma": "төрхәрә",
+    "translation": "врождённый, природный",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "төрхәрә авъяс",
+      "rus": "врождённая склонность"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0124",
+    "source_id": "019776_цаста",
+    "lemma": "цаста",
+    "translation": "заснеженный, снежный",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "цаста үвл",
+      "rus": "снежная зима"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0125",
+    "source_id": "017875_хагда",
+    "lemma": "хагда",
+    "translation": "старая (прошлогодняя) трава, ветошь",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хагда шатах",
+      "rus": "выжигать старую траву"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0126",
+    "source_id": "019239_хурта",
+    "lemma": "хурта",
+    "translation": "дождливый, обильный атмосферными осадками",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хурта хавр",
+      "rus": "дождливая весна"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0127",
+    "source_id": "010642_нарта",
+    "lemma": "нарта",
+    "translation": "1. в знач. опред.; солнечный, освещённый солнцем; солнечно, ясно",
+    "category": "steppe_nature",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "нарта халун өдр",
+      "rus": "жаркий солнечный день"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_pos"
+    ]
+  },
+  {
+    "id": "lc_0128",
+    "source_id": "001047_аһурсн",
+    "lemma": "аһурсн",
+    "translation": "животное",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "герин (теҗәмл) аһурсн",
+      "rus": "домашнее животное"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0129",
+    "source_id": "007269_иңгн",
+    "lemma": "иңгн",
+    "translation": "верблюдица",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хәәмл иңгн",
+      "rus": "верблюдица, неоднократно приносившая верблюжат"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0130",
+    "source_id": "018440_хатрл",
+    "lemma": "хатрл",
+    "translation": "рысь (ход лошади)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мөриг хатрларнь тәвх",
+      "rus": "пускать лошадь рысью"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0131",
+    "source_id": "018442_хатрлт",
+    "lemma": "хатрлт",
+    "translation": "рысь (ход лошади)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "сәәхн хатрлта мөрн",
+      "rus": "лошадь с красивой рысью"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0132",
+    "source_id": "019390_хуц",
+    "lemma": "хуц",
+    "translation": "баран-производитель",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "сән тохмта хуц",
+      "rus": "породистый баран-производитель"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0133",
+    "source_id": "000591_адуч",
+    "lemma": "адуч",
+    "translation": "табунщик, пастух лошадей",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "күндтә адуч",
+      "rus": "знатный табунщик"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0134",
+    "source_id": "007796_кевх",
+    "lemma": "кевх",
+    "translation": "жевать жвачку (о животном)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "үкр кевлһән кевҗәнә",
+      "rus": "корова жуёт жвачку"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0135",
+    "source_id": "009584_малч",
+    "lemma": "малч",
+    "translation": "скотовод, животновод, пастух",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "малчнрин селвлцлт",
+      "rus": "совещание скотоводов (животноводов)"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0136",
+    "source_id": "010384_нәәднр",
+    "lemma": "нәәднр",
+    "translation": "матка (напр. у животных)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "эдгҗәх күүкд күүнд нәәднр хөөнә шөлн зокдг",
+      "rus": "выздоравливающей женщине более подходит бульон из овцематки"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0137",
+    "source_id": "015778_тормта",
+    "lemma": "тормта",
+    "translation": "имеющий двухгодовалого верблюжонка",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "тормта иңгн",
+      "rus": "верблюдица с двухлетним верблюжонком"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0138",
+    "source_id": "016271_туульдг",
+    "lemma": "туульдг",
+    "translation": "брыкливый (о лошади и верблюде)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "туульдг мөрн",
+      "rus": "брыкливый конь"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0139",
+    "source_id": "016259_туулҗн",
+    "lemma": "туулҗн",
+    "translation": "пятилетний (о самке животного)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "туулҗн иңгн",
+      "rus": "пятилетняя верблюдица"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0140",
+    "source_id": "017974_хазлң",
+    "lemma": "хазлң",
+    "translation": "молодняк (овца, корова, коза)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хазлң ирг",
+      "rus": "баран на четвёртом году"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0141",
+    "source_id": "020136_цорһах",
+    "lemma": "цорһах",
+    "translation": "согнуть дугой (шею, о лошади)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "җиндүрин мөрн күзүһән цорһалһад гүүҗ йовна",
+      "rus": "пристяжная лошадь бежит, согнув шею дугой"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0142",
+    "source_id": "020796_чөдртә",
+    "lemma": "чөдртә",
+    "translation": "стреноженный, спутанный (о лошади)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "чөдртә мөрн",
+      "rus": "стреноженная лошадь"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0143",
+    "source_id": "021597_шовушң",
+    "lemma": "шовушң",
+    "translation": "похожий на птицу, птичий",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "шовушң хамрта күн",
+      "rus": "человек с птичьим носом"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0144",
+    "source_id": "021681_шордһр",
+    "lemma": "шордһр",
+    "translation": "короткий и редкий (о хвосте лошади)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "шордһр сүүлтә гүн",
+      "rus": "кобыла с коротким и редким хвостом"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0145",
+    "source_id": "012514_өлгчн",
+    "lemma": "өлгчн",
+    "translation": "самка (о плотоядных животных), сука",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "өлгчн чон",
+      "rus": "волчица"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0146",
+    "source_id": "000744_алгч",
+    "lemma": "алгч",
+    "translation": "пегая, пёстрая (о масти самок животных)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "алгч гүн",
+      "rus": "пегая кобыла"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0147",
+    "source_id": "002676_бордх",
+    "lemma": "бордх",
+    "translation": "откармливать, держать на откорме (животных)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "цар бордх",
+      "rus": "откормить быка"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0148",
+    "source_id": "002616_боһчх",
+    "lemma": "боһчх",
+    "translation": "связывать (ногу животного в согнутом виде)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мөрнә җола боһчх",
+      "rus": "укоротить повод лошади"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0149",
+    "source_id": "003145_бухдг",
+    "lemma": "бухдг",
+    "translation": "неудержимый, рвущийся вперёд (о лошади)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "бухҗ гүүдг буурл",
+      "rus": "неудержимый чалый конь"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0150",
+    "source_id": "008789_көңнәлх",
+    "lemma": "көңнәлх",
+    "translation": "надевать петлю на шею (молодняку животных)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хурһд көңнәлх",
+      "rus": "надеть ягнятам петли на шею"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0151",
+    "source_id": "009653_маңкр",
+    "lemma": "маңкр",
+    "translation": "светлолобый, лысоголовый (о животном)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "маңкр һалзн мөрн",
+      "rus": "лысоголовая лошадь"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0152",
+    "source_id": "013634_севсн",
+    "lemma": "севсн",
+    "translation": "содержимое кишок (закалываемых животных)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "севсән цацх",
+      "rus": "плеваться жвачкой (о верблюде)"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0153",
+    "source_id": "015292_теңнгдсн",
+    "lemma": "теңнгдсн",
+    "translation": "нагруженный (напр. на верблюда)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "темәнд теңнгдсн ацан",
+      "rus": "вьюк, нагруженный на верблюда"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0154",
+    "source_id": "015985_төөл",
+    "lemma": "төөл",
+    "translation": "белое пятно, звёздочка (напр. на лбу животных)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "маңнадан цаһан төөлтә хөн",
+      "rus": "овца с белой звёздочкой на лбу"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0155",
+    "source_id": "018509_хашң",
+    "lemma": "хашң",
+    "translation": "ленивый, вялый, медлительный (о животных)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хашң мөрн",
+      "rus": "ленивый конь"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0156",
+    "source_id": "021380_шилгәх",
+    "lemma": "шилгәх",
+    "translation": "встряхиваться, отряхиваться (о животных)",
+    "category": "animals",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мөрн көлвәдчкәд, босад шилгәҗәнә",
+      "rus": "лошадь, повалявшись, поднялась и отряхивается"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0157",
+    "source_id": "001314_асхндк",
+    "lemma": "асхндк",
+    "translation": "вечерний",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "асхндк бүрүл",
+      "rus": "вечерние сумерки"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0158",
+    "source_id": "005146_дотад",
+    "lemma": "дотад",
+    "translation": "внутренний",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "дотад гүүлгән",
+      "rus": "внутренняя торговля"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0159",
+    "source_id": "010801_нидн",
+    "lemma": "нидн",
+    "translation": "прошлый год",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "нидн җилә",
+      "rus": "прошлогодний"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0160",
+    "source_id": "022379_эндр",
+    "lemma": "эндр",
+    "translation": "сегодня",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "тер эндр ирлә",
+      "rus": "он пришёл сегодня"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0161",
+    "source_id": "022381_эндрк",
+    "lemma": "эндрк",
+    "translation": "сегодняшний",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "эндрк көдлмш",
+      "rus": "сегодняшняя работа"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0162",
+    "source_id": "012465_өдрҗң",
+    "lemma": "өдрҗң",
+    "translation": "дневник",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "сурһульчин өдрҗң",
+      "rus": "школьный дневник"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0163",
+    "source_id": "012825_өрүнәк",
+    "lemma": "өрүнәк",
+    "translation": "утренний",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "өрүнәк салькн",
+      "rus": "утренний ветер"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0164",
+    "source_id": "001110_арвулн",
+    "lemma": "арвулн",
+    "translation": "вдесятером, все десять",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "бидн арвулн ирүвидн",
+      "rus": "мы пришли вдесятером"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0165",
+    "source_id": "001312_асхн",
+    "lemma": "асхн",
+    "translation": "вечер, вечернее время",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "асхлад",
+      "rus": "к вечеру"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0166",
+    "source_id": "006080_зав",
+    "lemma": "зав",
+    "translation": "досуг, свободное время",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "зав олҗ авад, күрәд ир",
+      "rus": "найди время и приходи"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0167",
+    "source_id": "007061_йисүлн",
+    "lemma": "йисүлн",
+    "translation": "все девять, вдевятером",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "йисүлн ирүвидн",
+      "rus": "мы пришли вдевятером"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0168",
+    "source_id": "009666_маңһдурк",
+    "lemma": "маңһдурк",
+    "translation": "завтрашний",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "маңһдурк өдр",
+      "rus": "завтрашний день"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0169",
+    "source_id": "020072_цолвң",
+    "lemma": "цолвң",
+    "translation": "утренняя звезда, Венера",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "өрүн цолвң һарч",
+      "rus": "утренняя звезда взошла"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0170",
+    "source_id": "000412_авн",
+    "lemma": "авн",
+    "translation": ": эндрэс авн; с сегодняшнего дня",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "экнәс авн сүл күртл",
+      "rus": "с начала и до конца"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0171",
+    "source_id": "007859_кезәд",
+    "lemma": "кезәд",
+    "translation": "всегда, постоянно, в любое время",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "кезәд болв чигн бидн белмндн!",
+      "rus": "мы всегда готовы!"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0172",
+    "source_id": "021318_шидрәс",
+    "lemma": "шидрәс",
+    "translation": "на днях, спустя некоторое время",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "би шидрәс ирнәв",
+      "rus": "я приеду на днях"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0173",
+    "source_id": "012470_өдртән",
+    "lemma": "өдртән",
+    "translation": "в один день, в тот же день",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "би өдртән хәрҗ ирхв",
+      "rus": "я вернусь в тот же день"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0174",
+    "source_id": "012737_өрәсн",
+    "lemma": "өрәсн",
+    "translation": "один из пары кого-чего-л.",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "өрәсн һосн",
+      "rus": "один сапог"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0175",
+    "source_id": "002191_белкнг",
+    "lemma": "белкнг",
+    "translation": "один из средних детей (не старший и не младший)",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "белкнг көвүн",
+      "rus": "средний сын"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0176",
+    "source_id": "002536_болзгар",
+    "lemma": "болзгар",
+    "translation": "через определённое время, периодически",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хальмг альманах «Теегин герл» болзгар һарна",
+      "rus": "калмыцкий альманах «Теегин герл» выходит периодически"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0177",
+    "source_id": "005162_дотрк",
+    "lemma": "дотрк",
+    "translation": "находящийся внутри, находящийся в чем-л., внутренний",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "гер дотрк өлг-эд",
+      "rus": "вещи, находящиеся в юрте (в избе, в комнате)"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0178",
+    "source_id": "014676_тавн",
+    "lemma": "тавн",
+    "translation": "1. числ.; пять, в сложн. пяти≈, при глаголах пять раз",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "тав дәкҗ ирләв",
+      "rus": "я приходил пять раз"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic",
+      "has_pos"
+    ]
+  },
+  {
+    "id": "lc_0179",
+    "source_id": "001552_бәәс",
+    "lemma": "бәәс",
+    "translation": ": бәәс-бәәс гиһәд; время от времени, кое-когда, с перерывами",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "бәәс гих",
+      "rus": "мешкать, немного задерживаться, приостанавливаться"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0180",
+    "source_id": "020537_чигтх",
+    "lemma": "чигтх",
+    "translation": "закрепить арканом (для устойчивости кибитки во время сильного ветра)",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "герт чигтх авх",
+      "rus": "закрепить кибитку арканом от ветра"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0181",
+    "source_id": "013195_рынкин",
+    "lemma": "рынкин",
+    "translation": "рыночный",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "рынкин үн",
+      "rus": "рыночные цены"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0182",
+    "source_id": "018896_хошад",
+    "lemma": "хошад",
+    "translation": "по два",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хошад, хошадар",
+      "rus": "по два, парами"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0183",
+    "source_id": "012463_өдрә",
+    "lemma": "өдрә",
+    "translation": "дневной",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "өдрә эдлвр",
+      "rus": "дневной рацион"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0184",
+    "source_id": "005166_дотрта",
+    "lemma": "дотрта",
+    "translation": "имеющий внутренность",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "сатин дотрта күлт",
+      "rus": "пальто на сатиновой подкладке"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0185",
+    "source_id": "006745_зурһаһад",
+    "lemma": "зурһаһад",
+    "translation": "по шесть",
+    "category": "numbers_time",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "зурһаһад арслң күртв",
+      "rus": "досталось по шесть (по шести) рублей"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0186",
+    "source_id": "001383_аүркни",
+    "lemma": "аүркни",
+    "translation": "сердечный",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "зүркни ханлт",
+      "rus": "сердечная благодарность"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0187",
+    "source_id": "021016_шалтглх",
+    "lemma": "шалтглх",
+    "translation": "болеть",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "томаһар шалтглх",
+      "rus": "болеть гриппом"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0188",
+    "source_id": "007222_инз",
+    "lemma": "инз",
+    "translation": "врождённая болезнь",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "инз гемтә күн",
+      "rus": "больной с детства"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0189",
+    "source_id": "008096_киҗг",
+    "lemma": "киҗг",
+    "translation": "эпидемия, заразная болезнь",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "геснә киҗг",
+      "rus": "брюшной тиф"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0190",
+    "source_id": "011003_нөҗг",
+    "lemma": "нөҗг",
+    "translation": "сгусток крови, запёкшаяся кровь",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "көк нөҗг болв",
+      "rus": "образовался синяк"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0191",
+    "source_id": "012817_өрөвдх",
+    "lemma": "өрөвдх",
+    "translation": "сочувствовать, соболезновать, жалеть",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "би чамд икәр өрөвдҗәнәв",
+      "rus": "я жалею тебя"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0192",
+    "source_id": "001430_ацг",
+    "lemma": "ацг",
+    "translation": "реагировать болезненно на что-л., обижаться на что-л.",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "терүнә келсн үгәр ацг авхмн биш",
+      "rus": "на его слова не надо обижаться, на его слова нечего обращать внимание"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0193",
+    "source_id": "002888_бузлг",
+    "lemma": "бузлг",
+    "translation": "с сильно развитой передней частью (голова и грудь)",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "бузлг мөрн",
+      "rus": "лошадь с сильно развитой передней частью тела"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0194",
+    "source_id": "009770_махмуд",
+    "lemma": "махмуд",
+    "translation": "тело, телосложение",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мини махмуд өвдәд бәәнә",
+      "rus": "у меня всё тело болит"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0195",
+    "source_id": "012361_өвдкүр",
+    "lemma": "өвдкүр",
+    "translation": "боль, болезненность",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "өвдкүр ууруллһн",
+      "rus": "обезболивание"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0196",
+    "source_id": "002091_баху",
+    "lemma": "баху",
+    "translation": "мед.; зоб, базедова болезнь",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "баху гемтә мал",
+      "rus": "животное с больным зобом"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_pos"
+    ]
+  },
+  {
+    "id": "lc_0197",
+    "source_id": "012402_өвчн",
+    "lemma": "өвчн",
+    "translation": "болезнь, заболевание, недуг, хворь",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "өвчн гем",
+      "rus": "болезнь, недуг"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0198",
+    "source_id": "010126_моомрх",
+    "lemma": "моомрх",
+    "translation": "болеть сибирской язвой",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мал моомрхла нохад мөр",
+      "rus": "когда скот болеет сибирской язвой, собакам — радость <посл.>"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb"
+    ]
+  },
+  {
+    "id": "lc_0199",
+    "source_id": "000994_анчн",
+    "lemma": "анчн",
+    "translation": "взволнованный, бьющийся учащённо (о сердце)",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "анчн гигч зүркнь әәвлхәһән гүвдәд... арвн цаһан хурһнь альхн талан үүмлдәд одв",
+      "rus": "сердце учащённо забилось в груди, десять белых пальцев судорожно сжимались и разжимались <Джангар>"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "dzhangar",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0200",
+    "source_id": "001467_ашкдх",
+    "lemma": "ашкдх",
+    "translation": "дёрнуть за ухо",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0201",
+    "source_id": "001723_бадһнтх",
+    "lemma": "бадһнтх",
+    "translation": "болеть катаром желудка",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0202",
+    "source_id": "001891_бамтх",
+    "lemma": "бамтх",
+    "translation": "болеть цингой",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0203",
+    "source_id": "010172_мошклх",
+    "lemma": "мошклх",
+    "translation": "болеть (о животе)",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0204",
+    "source_id": "018198_хангдх",
+    "lemma": "хангдх",
+    "translation": "пускать кровь",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0205",
+    "source_id": "019080_хулһрлх",
+    "lemma": "хулһрлх",
+    "translation": "отрезать ухо",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0206",
+    "source_id": "019387_хуучрхх",
+    "lemma": "хуучрхх",
+    "translation": "запускать болезнь",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0207",
+    "source_id": "021421_шимшрән",
+    "lemma": "шимшрән",
+    "translation": "болезненность",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0208",
+    "source_id": "017110_үгдрх",
+    "lemma": "үгдрх",
+    "translation": "осложняться (о болезни)",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0209",
+    "source_id": "002094_бахутх",
+    "lemma": "бахутх",
+    "translation": "болеть базедовой болезнью",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0210",
+    "source_id": "004368_данах",
+    "lemma": "данах",
+    "translation": "быть самоуверенным, задирать нос",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0211",
+    "source_id": "009927_мерәслх",
+    "lemma": "мерәслх",
+    "translation": "болеть венерической болезнью",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0212",
+    "source_id": "015629_томурх",
+    "lemma": "томурх",
+    "translation": "болеть насморком, простужаться",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0213",
+    "source_id": "016121_тугх",
+    "lemma": "тугх",
+    "translation": "распространяться (о болезни)",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0214",
+    "source_id": "020777_чортих",
+    "lemma": "чортих",
+    "translation": "иметь глаз с приподнятым веком",
+    "category": "body_health",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0215",
+    "source_id": "021715_шөрәлх",
+    "lemma": "шөрәлх",
+    "translation": "дать шпоры",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мөр шөрәлх",
+      "rus": "пришпорить коня"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0216",
+    "source_id": "005375_дурлх",
+    "lemma": "дурлх",
+    "translation": "любить, влюбляться",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "бичкн күүкдт дурлх",
+      "rus": "любить детей"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0217",
+    "source_id": "006412_зелих",
+    "lemma": "зелих",
+    "translation": "смотреть пристально",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "ик нүдәрн зелиһәд хәләв",
+      "rus": "смотрёл пристально большими глазами"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0218",
+    "source_id": "015176_теҗглх",
+    "lemma": "теҗглх",
+    "translation": "сказать иносказательно",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "теҗглҗ келх",
+      "rus": "сказать иносказательно"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0219",
+    "source_id": "018756_хоралх",
+    "lemma": "хоралх",
+    "translation": "делать перегородку",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хораг хоралх",
+      "rus": "делать в комнате перегородку"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0220",
+    "source_id": "011259_һәәхх",
+    "lemma": "һәәхх",
+    "translation": "смотреть, глядеть",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "һәәхүл һәәхх",
+      "rus": "осматривать выставку"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0221",
+    "source_id": "012406_өвчх",
+    "lemma": "өвчх",
+    "translation": "делать операцию",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "арс бүтүһәр өвчх",
+      "rus": "снимать кожу целиком"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0222",
+    "source_id": "001473_ашлх",
+    "lemma": "ашлх",
+    "translation": "делать вывод, подводить итог",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "тер кесн көдлмшән ашлв",
+      "rus": "он сделал вывод о своей работе"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0223",
+    "source_id": "008045_керчәслх",
+    "lemma": "керчәслх",
+    "translation": "делать надрез",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мод керчәслх",
+      "rus": "делать надрез на дереве"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0224",
+    "source_id": "008764_көндәлх",
+    "lemma": "көндәлх",
+    "translation": "делать внутри пустым, выдалбливать",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "дораснь көндәлх",
+      "rus": "подрывать снизу"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0225",
+    "source_id": "011188_нүклх",
+    "lemma": "нүклх",
+    "translation": "делать отверстие в чём-л.",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "шөвгәр нүклх",
+      "rus": "проколоть шилом"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0226",
+    "source_id": "014440_сүүвдх",
+    "lemma": "сүүвдх",
+    "translation": "держать под мышкой, брать под мышку",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "дегтр сүүвдх",
+      "rus": "держать книгу под мышкой"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0227",
+    "source_id": "015550_тодлх",
+    "lemma": "тодлх",
+    "translation": "вспоминать (говорить) о чём-л.",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "тодлсан санх",
+      "rus": "вспоминать"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0228",
+    "source_id": "016825_урлх",
+    "lemma": "урлх",
+    "translation": "искусно делать что-л., мастерить",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "модар урлх",
+      "rus": "плотничать"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0229",
+    "source_id": "018591_хойрдх",
+    "lemma": "хойрдх",
+    "translation": "делать (повторять) дважды",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хойрдад ирх",
+      "rus": "приходить дважды"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0230",
+    "source_id": "020426_чадврта",
+    "lemma": "чадврта",
+    "translation": "умелый, могущий что-л. делать",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "чадврта көдлмшч",
+      "rus": "умелый рабочий"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0231",
+    "source_id": "011458_һардх",
+    "lemma": "һардх",
+    "translation": "делать что-л. рукой (руками)",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "һардан ноолдх",
+      "rus": "вести рукопашный бой"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0232",
+    "source_id": "012423_өгйәлх",
+    "lemma": "өгйәлх",
+    "translation": "брать взаймы (в кредит, в долг)",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мөңг өгйәлх",
+      "rus": "брать деньги взаймы"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0233",
+    "source_id": "012736_өрәслх",
+    "lemma": "өрәслх",
+    "translation": "рознить, делать непарным",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "цариг өрәсләд татх",
+      "rus": "запрячь быков поодиночке"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0234",
+    "source_id": "000655_айдх",
+    "lemma": "айдх",
+    "translation": "воздерживаться, немного ждать, делать не спеша",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "тәмк татхасн невчк айдх",
+      "rus": "немного воздержаться от курения"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0235",
+    "source_id": "002112_бачмдх",
+    "lemma": "бачмдх",
+    "translation": "сильно спешить, делать что-л. быстро",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "йовхин тускарн бачмдх",
+      "rus": "спешить с отъездом"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0236",
+    "source_id": "002174_белглх",
+    "lemma": "белглх",
+    "translation": "дарить, делать подарки, преподносить",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "бичкн күүкдт наадһас белглх",
+      "rus": "дарить детям игрушки"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0237",
+    "source_id": "003854_гөңглх",
+    "lemma": "гөңглх",
+    "translation": "облегчать, делать легче, смягчать, умерять",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "цааҗллһиг гөңглх",
+      "rus": "смягчать наказание"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0238",
+    "source_id": "007018_иигх",
+    "lemma": "иигх",
+    "translation": "делать (поступать) так, делать таким образом",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "эн көдлмшиг иигҗ кех кергтә",
+      "rus": "эту работу надо выполнить так"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0239",
+    "source_id": "007168_имнх",
+    "lemma": "имнх",
+    "translation": "делать метку подрезом (ушей у скота)",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мал имнх",
+      "rus": "метить скот"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0240",
+    "source_id": "012086_оңһлзх",
+    "lemma": "оңһлзх",
+    "translation": "озираться, оглядываться, смотреть с удивлением",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "энд тендәи оңһлзх",
+      "rus": "озираться кругом"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0241",
+    "source_id": "017838_хавтхалх",
+    "lemma": "хавтхалх",
+    "translation": "делать плоским, сплющивать",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "элдсн һуйр хавтхалх",
+      "rus": "катать тесто"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0242",
+    "source_id": "021542_ширтх",
+    "lemma": "ширтх",
+    "translation": "смотреть пристально, устремлять взгляд",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "ширтҗ хәләх",
+      "rus": "пристально всматриваться"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0243",
+    "source_id": "003804_гисн",
+    "lemma": "гисн",
+    "translation": "что ни на есть, самый, действительно, очень, весьма, совсем",
+    "category": "common_actions",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "әмтин сәәхн гисн күүкн",
+      "rus": "а) самая (что ни на есть) красивая девушка б) очень (действительно) красивая девушка"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0244",
+    "source_id": "008689_көкрңһү",
+    "lemma": "көкрңһү",
+    "translation": "синеватый",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "көкрңһү өңгтә эд",
+      "rus": "материя (ткань) синеватой расцветки"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0245",
+    "source_id": "016623_улавр",
+    "lemma": "улавр",
+    "translation": "красноватый",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "улавр шар",
+      "rus": "красновато-желтый"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0246",
+    "source_id": "016645_улатл",
+    "lemma": "улатл",
+    "translation": "докрасна",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "төмриг улатлнь халулх",
+      "rus": "накалить железо докрасна"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0247",
+    "source_id": "019492_цәәвр",
+    "lemma": "цәәвр",
+    "translation": "беловатый",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "цәәвр чирә",
+      "rus": "бледное лицо"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0248",
+    "source_id": "000287_аалҗң",
+    "lemma": "аалҗң",
+    "translation": "медленный, вялый",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "аалҗң-аалҗң гиһәд",
+      "rus": "быть вялым, двигаться медленно, еле передвигая ноги"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0249",
+    "source_id": "000562_адһлго",
+    "lemma": "адһлго",
+    "translation": "медленно, не спеша",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "адһлго бичх",
+      "rus": "медленно писать"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0250",
+    "source_id": "002416_бичкцр",
+    "lemma": "бичкцр",
+    "translation": "маловат, маленький",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "һоснь бичкцр болҗ һарв",
+      "rus": "сапоги оказались малы (по размеру)"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0251",
+    "source_id": "003731_гиигцр",
+    "lemma": "гиигцр",
+    "translation": "довольно лёгкий",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "гиигцр ацан",
+      "rus": "довольно лёгкий груз"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0252",
+    "source_id": "003976_гүүдлтә",
+    "lemma": "гүүдлтә",
+    "translation": "резвый, быстрый",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "гүүдлтә мөрн",
+      "rus": "резвая лошадь"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0253",
+    "source_id": "003855_гөңгн",
+    "lemma": "гөңгн",
+    "translation": "лёгкий, нетяжёлый",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "гөңгн болх",
+      "rus": "становиться лёгким"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0254",
+    "source_id": "004468_даруд",
+    "lemma": "даруд",
+    "translation": "скоро, быстро, тотчас",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "ю болв чигн дарунь күцәх",
+      "rus": "сделать что-л. тотчас (по горячим следам)"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0255",
+    "source_id": "007071_икңкнь",
+    "lemma": "икңкнь",
+    "translation": "большая (часть)",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "икңк хүвнь",
+      "rus": "большая часть"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0256",
+    "source_id": "006993_иҗлсг",
+    "lemma": "иҗлсг",
+    "translation": "быстро привыкающий",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "иҗлсг мал",
+      "rus": "быстро привыкающий скот"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0257",
+    "source_id": "009074_күндтх",
+    "lemma": "күндтх",
+    "translation": "стать тяжёлым",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "ацан күнддәд бәәв",
+      "rus": "груз стал тяжёлым"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0258",
+    "source_id": "010345_муувтр",
+    "lemma": "муувтр",
+    "translation": "плоховатый, плохонький",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "муувтр эд",
+      "rus": "плоховатый товар"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0259",
+    "source_id": "019192_хурднь",
+    "lemma": "хурднь",
+    "translation": "скорость, быстрота",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "машина хурднь кедү километр?",
+      "rus": "какова скорость машины?"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0260",
+    "source_id": "019715_цаһавтр",
+    "lemma": "цаһавтр",
+    "translation": "беловатый, белёсый",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "цаһавтр күмсг",
+      "rus": "белёсые брови"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0261",
+    "source_id": "021171_шарң",
+    "lemma": "шарң",
+    "translation": "жёлто-красный",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "шарң шаһа",
+      "rus": "жёлто-красный альчик"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0262",
+    "source_id": "022207_эләд",
+    "lemma": "эләд",
+    "translation": "значительный, большой",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "эләд көвүн",
+      "rus": "старший сын"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0263",
+    "source_id": "011355_һалзвцр",
+    "lemma": "һалзвцр",
+    "translation": "с небольшой лысиной",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "тер күүнә толһа һалзвцр",
+      "rus": "у этого человека голова с небольшой лысиной"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0264",
+    "source_id": "012549_өмгр",
+    "lemma": "өмгр",
+    "translation": "очень маленький",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "өмгр амта",
+      "rus": "а) с очень узким отверстием б) с очень маленьким ртом"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0265",
+    "source_id": "012900_өтр",
+    "lemma": "өтр",
+    "translation": "быстро, немедленно",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "өтрҗ йов!",
+      "rus": "а) быстро отправляйся! б) немедленно уходи!"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0266",
+    "source_id": "002458_богзг",
+    "lemma": "богзг",
+    "translation": "низкий, низкорослый, маленький",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "богзг тергн өвсн",
+      "rus": "маленький воз сена"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0267",
+    "source_id": "004341_дамҗлх",
+    "lemma": "дамҗлх",
+    "translation": "нести (с кем-л. что-л. тяжёлое)",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хойюрн дамҗлад күргх",
+      "rus": "донести вдвоём (что-л. тяжёлое)"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0268",
+    "source_id": "005508_дүрҗңнх",
+    "lemma": "дүрҗңнх",
+    "translation": "разговаривать быстро и громко",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "чикн шуугх (дүрҗңнх)",
+      "rus": "шуметь в ушах"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0269",
+    "source_id": "007335_йорлх",
+    "lemma": "йорлх",
+    "translation": "предчувствовать (что-л. плохое)",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "гүрм йорлх",
+      "rus": "предчувствовать беду"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0270",
+    "source_id": "007648_каңкх",
+    "lemma": "каңкх",
+    "translation": "съесть (быстро и без остатка)",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "өгсн хотыг каңкх",
+      "rus": "съесть предложенную пищу"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0271",
+    "source_id": "009262_күчр",
+    "lemma": "күчр",
+    "translation": "тяжёлый, трудный, тяжкий",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "күчр көдлмш",
+      "rus": "тяжёлая работа"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0272",
+    "source_id": "009635_мантһр",
+    "lemma": "мантһр",
+    "translation": "головастый, большеголовый",
+    "category": "qualities",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мантһр толһа",
+      "rus": "большая голова"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0273",
+    "source_id": "001852_балһсн",
+    "lemma": "балһсн",
+    "translation": "город",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "балһсна ца",
+      "rus": "за городом"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0274",
+    "source_id": "004618_дегтр",
+    "lemma": "дегтр",
+    "translation": "книга",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "соньн дегтр",
+      "rus": "интересная книга"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0275",
+    "source_id": "015662_тоңһрг",
+    "lemma": "тоңһрг",
+    "translation": "перочинный нож",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "тоңһргин ир",
+      "rus": "лезвие перочинного ножа"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0276",
+    "source_id": "016481_тюквг",
+    "lemma": "тюквг",
+    "translation": "место, где тюкуют",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "өвснә тюквг",
+      "rus": "место, где тюкуют сено"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0277",
+    "source_id": "020255_цуглулх",
+    "lemma": "цуглулх",
+    "translation": "собирать (в одно место)",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "үкрмүд цуглулх",
+      "rus": "сгонять коров в одно место"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0278",
+    "source_id": "001830_балг",
+    "lemma": "балг",
+    "translation": "широкий плоский нож, столовый нож",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "балган хәврх",
+      "rus": "править (оттачивать) столовый нож"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0279",
+    "source_id": "007827_кедх",
+    "lemma": "кедх",
+    "translation": "переходить с места на место",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "селәнәс селә кедх",
+      "rus": "переходить из села в седо"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0280",
+    "source_id": "015451_тиирң",
+    "lemma": "тиирң",
+    "translation": "вытоптанное скотом место, тырло",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "адуна тиирң",
+      "rus": "тырло табуна"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0281",
+    "source_id": "018936_хөңглдң",
+    "lemma": "хөңглдң",
+    "translation": "просторный, широкий (об одежде)",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хөңглдң девл",
+      "rus": "шуба не по размеру"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0282",
+    "source_id": "001818_балвлҗан",
+    "lemma": "балвлҗан",
+    "translation": "сборка, складка (на одежде)",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "балвлҗата бүшмүд",
+      "rus": "платье в сборку (со складками)"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0283",
+    "source_id": "007815_кедн",
+    "lemma": "кедн",
+    "translation": "переходя с места на место, объезжая все и всех",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "почтальон гермүд кедн йовна",
+      "rus": "почтальон идёт, обходя все дома"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0284",
+    "source_id": "011416_һаңнар",
+    "lemma": "һаңнар",
+    "translation": "спайка, сварка, место соединения спаянных частей",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "электричествин һаңнар",
+      "rus": "электроспайка"
+    },
+    "notes": [],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0285",
+    "source_id": "018755_хора",
+    "lemma": "хора",
+    "translation": "комната",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "һурвн хората гер",
+      "rus": "трёхкомнатная квартира"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0286",
+    "source_id": "012721_өрә",
+    "lemma": "өрә",
+    "translation": "комната",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "мана өрәд",
+      "rus": "в нашей комнате"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0287",
+    "source_id": "005171_дошкольн",
+    "lemma": "дошкольн",
+    "translation": "дошкольный",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "дошкольн сурһмҗ",
+      "rus": "дошкольное воспитание"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0288",
+    "source_id": "013717_селән",
+    "lemma": "селән",
+    "translation": "селение, село",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "баахн селән",
+      "rus": "небольшое селение"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0289",
+    "source_id": "006021_зәәтә",
+    "lemma": "зәәтә",
+    "translation": "имеющий свободное место (пространство)",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "энд зә бәәнә, сууцхатн!",
+      "rus": "здесь есть место, садитесь!"
+    },
+    "notes": [
+      "needs_pronunciation_review"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_examples"
+    ]
+  },
+  {
+    "id": "lc_0290",
+    "source_id": "019028_хувцн",
+    "lemma": "хувцн",
+    "translation": "одежда",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хувц уяч",
+      "rus": "портной"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "proverb",
+      "riddle"
+    ]
+  },
+  {
+    "id": "lc_0291",
+    "source_id": "018865_хотн",
+    "lemma": "хотн",
+    "translation": "хотон, село, деревня",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хотн дунд хо цаһан күүкн сууна",
+      "rus": "посреди хотона сидит светлолицая девушка (беш печь) <загадка>"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "has_examples",
+      "has_phonetic",
+      "riddle"
+    ]
+  },
+  {
+    "id": "lc_0292",
+    "source_id": "018068_халхлзх",
+    "lemma": "халхлзх",
+    "translation": "развеваться, колыхаться (об одежде)",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": {
+      "kal": "хар лаңк бүшмүдиг халхлзулҗ биилитә",
+      "rus": "танцуйте так, чтобы колыхалось чёрное платье <фольк.>"
+    },
+    "notes": [
+      "has_cultural_markers"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "cultural_candidate",
+      "folklore",
+      "has_examples",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0293",
+    "source_id": "019127_хунр",
+    "lemma": "хунр",
+    "translation": "одежда",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0294",
+    "source_id": "017320_үнркх",
+    "lemma": "үнркх",
+    "translation": "дорожать",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0295",
+    "source_id": "002405_бичглх",
+    "lemma": "бичглх",
+    "translation": "писать письмо",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0296",
+    "source_id": "010131_мордл",
+    "lemma": "мордл",
+    "translation": "место отъезда",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0297",
+    "source_id": "011138_нуужнг",
+    "lemma": "нуужнг",
+    "translation": "отхожее место, уборная",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0298",
+    "source_id": "019880_цегл",
+    "lemma": "цегл",
+    "translation": "топкое место",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0299",
+    "source_id": "006026_зәәцх",
+    "lemma": "зәәцх",
+    "translation": "отодвигаться, освобождать место",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  },
+  {
+    "id": "lc_0300",
+    "source_id": "013339_саглрдг",
+    "lemma": "саглрдг",
+    "translation": "развевающийся плавно (об одежде)",
+    "category": "objects_places",
+    "difficulty": 1,
+    "review_status": "candidate",
+    "lesson_eligible": false,
+    "audio_status": "needed",
+    "audio_file": null,
+    "example": null,
+    "notes": [
+      "needs_example"
+    ],
+    "source_tags": [
+      "beginner_candidate",
+      "has_phonetic"
+    ]
+  }
+]
