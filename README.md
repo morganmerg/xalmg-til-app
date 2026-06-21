@@ -11,6 +11,7 @@ merge) and 5 starter lessons.
 |-----------------------|--------|------------------------------------------------|
 | Dictionary parsing    | ✅     | `scripts/parse_dsl.py` → 22,846 source entries |
 | Dictionary tagging    | ✅     | `scripts/classify_dictionary.py` → entry tags  |
+| Learning targets      | ✅     | `scripts/build_learning_targets.py` → 300 fixed category slots |
 | Learning core         | ✅     | `scripts/build_learning_core.py` → 300 review candidates |
 | SQLite + FTS5 build   | ✅     | `scripts/build_sqlite.py` → 11.8 MB bundled DB |
 | Design system         | ✅     | Tokens, Ornament, GlassPill, BilingualText     |
@@ -63,10 +64,13 @@ PYTHONIOENCODING=utf-8 python scripts/merge_ruwikt.py
 # 5. classify entries for beginner/cultural/grammar filtering
 PYTHONIOENCODING=utf-8 python scripts/classify_dictionary.py
 
-# 6. build the first human-reviewable learning core
+# 6. map the fixed 300 beginner targets to dictionary entries
+PYTHONIOENCODING=utf-8 python scripts/build_learning_targets.py
+
+# 7. build the first human-reviewable learning core
 PYTHONIOENCODING=utf-8 python scripts/build_learning_core.py
 
-# 7. build SQLite with FTS and entry_tags
+# 8. build SQLite with FTS and entry_tags
 PYTHONIOENCODING=utf-8 python scripts/build_sqlite.py
 ```
 
@@ -102,11 +106,13 @@ docs/superpowers/ design specs
 
 ## Next steps
 
-1. Review `assets/data/learning_core.json` and promote approved items into the
+1. Review `assets/data/learning_targets.json`, resolve manual matches, and use
+   it as the first-course target map.
+2. Review `assets/data/learning_core.json` and promote approved items into the
    first lesson schema.
-2. Create an audio backlog for the reviewed learning core.
-3. Run on a real device; confirm Cyrillic + Kalmyk-specific letters render.
-4. Expand lesson catalogue past the initial 5 sets using the reviewed thematic
+3. Create an audio backlog for the reviewed learning core.
+4. Run on a real device; confirm Cyrillic + Kalmyk-specific letters render.
+5. Expand lesson catalogue past the initial 5 sets using the reviewed thematic
    layer.
-5. Fix audio filename decoding by comparing byte-level positions against the
+6. Fix audio filename decoding by comparing byte-level positions against the
    DSL file's lemma order.

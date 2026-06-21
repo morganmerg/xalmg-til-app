@@ -111,14 +111,33 @@ Existing important tags:
 
 Rule: generated tags are a rough filter, not final truth.
 
-### Layer 3: Learning Core Candidates
+### Layer 3A: Fixed Beginner Targets
+
+Current output:
+
+- `assets/data/learning_targets.json`
+- `docs/data/2026-06-21-learning-targets-report.md`
+
+This is the blunt 300-slot beginner map:
+
+- 12 categories;
+- 25 target Russian meanings per category;
+- dictionary match when the local dictionary has a clean entry;
+- `needs_manual_match` when the dictionary does not have a trusted automatic match;
+- `lesson_eligible: false` until human review.
+
+Rule: this is the preferred base for the first course because it starts from
+human-chosen beginner meanings rather than from whatever the dictionary happens
+to contain.
+
+### Layer 3B: Learning Core Candidates
 
 Current output:
 
 - `assets/data/learning_core.json`
 - `docs/data/2026-06-21-learning-core-report.md`
 
-This contains the first 300 human-reviewable words and phrases:
+This contains 300 heuristic human-reviewable words and phrases:
 
 - id;
 - lemma;
@@ -130,7 +149,7 @@ This contains the first 300 human-reviewable words and phrases:
 - audio status;
 - lesson eligibility.
 
-Rule: this layer is a candidate pool, not approved lesson content. Items become
+Rule: this layer is a discovery pool, not the primary course map. Items become
 real lesson content only after human review changes `review_status` and
 `lesson_eligible`.
 
@@ -292,6 +311,7 @@ Active now.
 
 - Keep this roadmap updated.
 - Validate dictionary classification with samples.
+- Resolve `learning_targets.json` manual matches.
 - Review first `learning_core.json`.
 - Create `audio_backlog.json`.
 - Define lesson data schema.
@@ -357,9 +377,10 @@ Ideas parked for later:
 
 ## Next Concrete Step
 
-Review the first `learning_core.json` candidate list:
+Review the fixed `learning_targets.json` list:
 
-- reject noisy entries;
+- resolve the 29 `needs_manual_match` rows;
+- reject noisy automatic matches;
 - approve a smaller first-course subset;
 - decide which categories become Unit 1-5 lessons;
 - preserve notes for missing examples and pronunciation review;
